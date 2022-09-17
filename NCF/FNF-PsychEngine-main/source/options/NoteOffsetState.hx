@@ -87,7 +87,7 @@ class NoteOffsetState extends MusicBeatState
 		}
 
 		// Characters
-		gf = new Character(400, 130, 'ncfgf');
+		gf = new Character(400, 130, 'ncf-gf');
 		gf.x += gf.positionArray[0];
 		gf.y += gf.positionArray[1];
 		gf.scrollFactor.set(0.95, 0.95);
