@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		50
+	],
+	"scale": 1.8,
+	"animations": [
+		{
+			"loop_name": "regular",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "regular",
+			"anim": "regular",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "oof",
+			"idle_offsets": [
+				5,
+				-7
+			],
+			"idle_name": "oof",
+			"anim": "oof",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "mad",
+			"idle_offsets": [
+				0,
+				-5
+			],
+			"idle_name": "mad",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "derp",
+			"idle_offsets": [
+				10,
+				-10
+			],
+			"idle_name": "derp",
+			"anim": "derp",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "n8_dia"
+}

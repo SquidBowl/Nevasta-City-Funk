@@ -1,0 +1,50 @@
+{
+	"storyName": "Funkin on the rooftop",
+	"difficulties": "regular, expert",
+	"hideFreeplay": false,
+	"weekBackground": "nate",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"nate",
+			"n8",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mr.mx",
+			"n8",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ignited ember",
+			"n8",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Nate's Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amazed bf0000" x="0" y="0" width="471" height="473"/>
+	<SubTexture name="bf what.0000" x="471" y="0" width="471" height="468"/>
+	<SubTexture name="BF CONFUSED0000" x="0" y="473" width="472" height="478"/>
+	<SubTexture name="BF bf0000" x="472" y="473" width="468" height="480"/>
+	<SubTexture name="BF SHOCK0000" x="0" y="953" width="469" height="478"/>
+</TextureAtlas>

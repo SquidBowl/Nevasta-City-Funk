@@ -1,0 +1,141 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Cass Idle dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Cass Left dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Cass Left dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Cass Right dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Cass Right dance"
+		},
+		{
+			"offsets": [
+				-17,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Cass Up dance"
+		},
+		{
+			"offsets": [
+				-17,
+				-48
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Cass Up dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Cass Down dance"
+		},
+		{
+			"offsets": [
+				-18,
+				-48
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Cass Down dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cass_assets",
+	"position": [
+		-10,
+		-60
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

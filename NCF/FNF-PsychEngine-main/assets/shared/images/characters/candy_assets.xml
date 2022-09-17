@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="candy_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Candy Down Dance0000" x="0" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Down Dance0001" x="0" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Down Dance0002" x="1050" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Down Dance0003" x="1050" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Down Dance0004" x="1050" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Down Dance0005" x="1050" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0000" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0001" x="3150" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0002" x="3150" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0003" x="4200" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0004" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0005" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0006" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0007" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0008" x="3150" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0009" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0010" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0011" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0012" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0013" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Idle Dance0014" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Candy Left Dance0000" x="0" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Left Dance0001" x="0" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Left Dance0002" x="1050" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Left Dance0003" x="1050" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Left Dance0004" x="1050" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Left Dance0005" x="1050" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Right Dance 0000" x="2100" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Right Dance 0001" x="2100" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Right Dance 0002" x="3150" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Right Dance 0003" x="3150" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Right Dance 0004" x="3150" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Right Dance 0005" x="3150" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Up Dance0000" x="4200" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Up Dance0001" x="4200" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Up Dance0002" x="5250" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Up Dance0003" x="5250" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Up Dance0004" x="5250" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Candy Up Dance0005" x="5250" y="1050" width="1050" height="1050"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nateprey.png"><SubTexture name="nateprey idle0000" x="987" y="0" width="483" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey idle0001" x="1470" y="0" width="504" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey idle0002" x="0" y="777" width="483" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey idle0003" x="2436" y="0" width="504" height="714" frameX="-189" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey idle0004" x="987" y="0" width="483" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey idle0005" x="1470" y="0" width="504" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey idle0006" x="987" y="0" width="483" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey left0000" x="483" y="777" width="441" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey left0001" x="924" y="777" width="441" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey left0002" x="1365" y="777" width="462" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey left0003" x="1974" y="0" width="462" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey down0000" x="2436" y="0" width="504" height="714" frameX="-189" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey down0001" x="0" y="2247" width="525" height="693" frameX="-210" frameY="-210" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey down0002" x="2940" y="0" width="525" height="714" frameX="-189" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey down0003" x="2940" y="714" width="483" height="714" frameX="-210" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0000" x="2940" y="1428" width="504" height="714" frameX="-189" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0001" x="1470" y="0" width="504" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0002" x="525" y="0" width="462" height="756" frameX="-210" frameY="-147" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0003" x="0" y="1512" width="483" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0004" x="1974" y="735" width="462" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0005" x="2436" y="714" width="504" height="714" frameX="-189" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey up0006" x="1470" y="0" width="504" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey right0000" x="483" y="1512" width="525" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey right0001" x="1008" y="1512" width="525" height="735" frameX="-189" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey right0002" x="1533" y="1512" width="504" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey right0003" x="2436" y="1428" width="504" height="714" frameX="-189" frameY="-189" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey right0004" x="987" y="0" width="483" height="735" frameX="-210" frameY="-168" frameWidth="1050" frameHeight="1050" />
+<SubTexture name="nateprey miss0000" x="0" y="0" width="525" height="777" frameX="-252" frameY="-168" frameWidth="1050" frameHeight="1050" />
+</TextureAtlas>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cass_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cass Down dance0000" x="0" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Down dance0001" x="1050" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Down dance0002" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Down dance0003" x="3150" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Down dance0004" x="4200" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Down dance0005" x="3150" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0000" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0001" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0002" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0003" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0004" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0005" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0006" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0007" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0008" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0009" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0010" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0011" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0012" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0013" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0014" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Idle dance0015" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Cass Left dance 0000" x="0" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Left dance 0001" x="1050" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Left dance 0002" x="2100" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Left dance 0003" x="2100" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Left dance 0004" x="3150" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Left dance 0005" x="2100" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Right dance0000" x="4200" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Right dance0001" x="5250" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Right dance0002" x="6300" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Right dance0003" x="6300" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Right dance0004" x="0" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Cass Right dance0005" x="6300" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Cass Up dance0000" x="1050" y="2100" width="1050" height="1050" frameX="0" frameY="-42" frameWidth="1051" frameHeight="1092"/>
+	<SubTexture name="Cass Up dance0001" x="2100" y="2100" width="1050" height="1050" frameX="0" frameY="-21" frameWidth="1051" frameHeight="1092"/>
+	<SubTexture name="Cass Up dance0002" x="2100" y="2100" width="1050" height="1050" frameX="0" frameY="0" frameWidth="1051" frameHeight="1092"/>
+	<SubTexture name="Cass Up dance0003" x="3150" y="2100" width="1050" height="1050" frameX="-1" frameY="0" frameWidth="1051" frameHeight="1092"/>
+	<SubTexture name="Cass Up dance0004" x="4200" y="2100" width="1050" height="1050" frameX="-1" frameY="0" frameWidth="1051" frameHeight="1092"/>
+	<SubTexture name="Cass Up dance0005" x="3150" y="2100" width="1050" height="1050" frameX="-1" frameY="0" frameWidth="1051" frameHeight="1092"/>
+	<SubTexture name="Cass Up dance0006" x="3150" y="2100" width="1050" height="1050" frameX="-1" frameY="0" frameWidth="1051" frameHeight="1092"/>
+</TextureAtlas>

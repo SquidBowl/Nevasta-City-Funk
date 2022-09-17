@@ -1,0 +1,213 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Nate Pixel Down M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Nate Pixel Left M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Nate Pixel Up M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Nate Pixel Right M",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nate Pixel Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Nate Pixel Up",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Nate Pixel Down",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Nate Pixel Left",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Nate Pixel Right",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Nate Pixel Up"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Nate Pixel Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nate Pixel Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				8,
+				3
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nate Pixel Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nathaniel pixel",
+	"position": [
+		70,
+		290
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

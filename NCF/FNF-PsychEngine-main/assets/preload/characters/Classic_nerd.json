@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				38,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nate Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nate Left Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nate Down Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nate Up Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nate Right Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Classic_Nate",
+	"position": [
+		100,
+		300
+	],
+	"healthicon": "n8",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		226
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

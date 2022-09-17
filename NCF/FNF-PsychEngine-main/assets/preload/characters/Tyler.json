@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-179,
+				-314
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tyler left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-353
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tyler down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-270
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tyler up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-238,
+				-333
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tyler right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tyler idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tyler",
+	"position": [
+		150,
+		90
+	],
+	"healthicon": "ty",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		217,
+		234
+	],
+	"camera_position": [
+		20,
+		420
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
