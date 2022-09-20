@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue2",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "huh?"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, Nate, long time no see!"
+		},
+		{
+			"sound": "dialogue2",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hh hey, g!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Holy shit, it's you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Who’s this?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, this is boyfriend"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Nice to meet ya!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "huh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hey, you think you can rap battle rn?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "a rap battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure I guess, how bad could it be?!"
+		}
+	]
+}

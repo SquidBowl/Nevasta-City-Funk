@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Holy shit dude, that wasn't half bad, kid!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm 19 actually but yeah, wasn't half, bad!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so how about round 2?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "unless you're a chicken."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Oh you're on, short stuff!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "boys will be boys, I guess."
+		}
+	]
+}

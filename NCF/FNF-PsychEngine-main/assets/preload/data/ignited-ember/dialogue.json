@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, the fireworks show is gonna start any minute now!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "in that case, Let's wrap this up, shall we?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah, let's wrap this up with a bang!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "n8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, hit it!"
+		}
+	]
+}
