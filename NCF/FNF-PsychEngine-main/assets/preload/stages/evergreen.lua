@@ -13,7 +13,7 @@ function onCreate()
 	setLuaSpriteScrollFactor('EGtreesfront', 0.9, 0.9);
 
 	makeLuaSprite('EGground', 'evergreen/EGground', -500, 530);
-	setLuaSpriteScrollFactor('EGground', 0.1, 0.1);
+	setLuaSpriteScrollFactor('EGground', 1, 1);
 
     makeLuaSprite('EGfronttree1', 'evergreen/EGfronttree1', 690, -120);
 	setLuaSpriteScrollFactor('EGfronttree1', 0.9, 0.9);
