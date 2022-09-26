@@ -35,12 +35,12 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		//#if MODS_ALLOWED 'mods', #end
-	    'awards'
+		//#if MODS_ALLOWED 'mods', #end¿
 		//#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
 		//#if !switch 'donate', #end
-		'options'
+		'options',
+		'awards',
 	];
 
 	var magenta:FlxSprite;
@@ -142,8 +142,9 @@ class MainMenuState extends MusicBeatState
 					case 3:
 						menuItem.x = 280.1;
 						menuItem.y = 580;
-					case	
-
+					case 4:
+						menuItem.x = 900.1;
+						menuItem.y = 560;	
 				}
 		}
 
