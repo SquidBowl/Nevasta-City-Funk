@@ -1,20 +1,33 @@
 function onCreate()
-	makeLuaSprite('stagesky', 'evergreen/EGsky', -1400, -1200);
-	setScrollFactor('stagesky', 0.65, 0.65);
-	addLuaSprite('stagesky', false);
+	-- background shit
+	makeLuaSprite('EGsky', 'evergreen/EGsky', -500, -1100);
+	setLuaSpriteScrollFactor('stageback', 0.9, 0.9);
+	
+	makeLuaSprite('EGtreebackground', 'evergreen/EGtreebackground', -260, -400);
+	setLuaSpriteScrollFactor('EGtreebackground', 0.9, 0.9);
 
-	makeLuaSprite('stagetree1', 'evergreen/EGtreebackground', -300, -430);
-	setScrollFactor('stagetree1', 0.7, 0.7);
-	addLuaSprite('stagetree1', false);
+	makeLuaSprite('EGtrees_middle', 'evergreen/EGtrees_middle', -450, -750);
+	setLuaSpriteScrollFactor('EGtrees_middle', 0.9, 0.9);
 
-	makeLuaSprite('stagetree2', 'evergreen/EGtrees_middle', -450, -600);
-	setScrollFactor('stagetree2', 0.8, 0.8);
-	addLuaSprite('stagetree2', false);
+	makeLuaSprite('EGtreesfront', 'evergreen/EGtreesfront', -250, -370);
+	setLuaSpriteScrollFactor('EGtreesfront', 0.9, 0.9);
 
-	makeLuaSprite('stagetree3', 'evergreen/EGtreesfront', -200, -350);
-	setScrollFactor('stagetree3', 0.9, 0.9);
-	addLuaSprite('stagetree3', false);
+	makeLuaSprite('EGground', 'evergreen/EGground', -500, 530);
+	setLuaSpriteScrollFactor('EGground', 0.9, 0.9);
 
-	makeLuaSprite('stageground', 'evergreen/EGground', -400, 600);
-	addLuaSprite('stageground', false);
-end
+    makeLuaSprite('EGfronttree1', 'evergreen/EGfronttree1', 690, -120);
+	setLuaSpriteScrollFactor('EGfronttree1', 0.9, 0.9);
+
+    makeLuaSprite('EGfronttree2', 'evergreen/EGfronttree2', -710, -100);
+	setLuaSpriteScrollFactor('EGfronttree2', 0.9, 0.9);
+
+
+	addLuaSprite('EGsky', false);
+	addLuaSprite('EGtreebackground', false);
+	addLuaSprite('EGtrees_middle', false);
+	addLuaSprite('EGtreesfront', false);
+	addLuaSprite('EGground', false);
+    addLuaSprite('EGfronttree1', false);
+    addLuaSprite('EGfronttree2', false);
+	
+	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
