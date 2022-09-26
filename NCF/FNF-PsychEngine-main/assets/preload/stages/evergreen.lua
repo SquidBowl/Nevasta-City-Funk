@@ -4,16 +4,16 @@ function onCreate()
 	setLuaSpriteScrollFactor('stageback', 0.9, 0.9);
 	
 	makeLuaSprite('EGtreebackground', 'evergreen/EGtreebackground', -260, -400);
-	setLuaSpriteScrollFactor('EGtreebackground', 0.9, 0.9);
+	setLuaSpriteScrollFactor('EGtreebackground', 0.5, 0.5);
 
 	makeLuaSprite('EGtrees_middle', 'evergreen/EGtrees_middle', -450, -750);
-	setLuaSpriteScrollFactor('EGtrees_middle', 0.9, 0.9);
+	setLuaSpriteScrollFactor('EGtrees_middle', 0.7, 0.7);
 
 	makeLuaSprite('EGtreesfront', 'evergreen/EGtreesfront', -250, -370);
 	setLuaSpriteScrollFactor('EGtreesfront', 0.9, 0.9);
 
 	makeLuaSprite('EGground', 'evergreen/EGground', -500, 530);
-	setLuaSpriteScrollFactor('EGground', 0.9, 0.9);
+	setLuaSpriteScrollFactor('EGground', 0.1, 0.1);
 
     makeLuaSprite('EGfronttree1', 'evergreen/EGfronttree1', 690, -120);
 	setLuaSpriteScrollFactor('EGfronttree1', 0.9, 0.9);
