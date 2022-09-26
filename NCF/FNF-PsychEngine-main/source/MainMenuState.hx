@@ -36,6 +36,7 @@ class MainMenuState extends MusicBeatState
 		'story_mode',
 		'freeplay',
 		//#if MODS_ALLOWED 'mods', #end
+	    'awards'
 		//#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
 		//#if !switch 'donate', #end
@@ -141,6 +142,7 @@ class MainMenuState extends MusicBeatState
 					case 3:
 						menuItem.x = 280.1;
 						menuItem.y = 580;
+					case	
 
 				}
 		}
