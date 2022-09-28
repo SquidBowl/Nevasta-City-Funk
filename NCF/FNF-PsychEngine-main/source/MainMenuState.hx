@@ -335,6 +335,8 @@ class MainMenuState extends MusicBeatState
 												MusicBeatState.switchState(new CreditsState());
 											case 'options':
 												MusicBeatState.switchState(new options.OptionsState());
+											case 'art_galery':
+										        MusicBeatState.switchState(new GaleryArtState());	
 										}
 									});
 								}
@@ -389,6 +391,8 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
 										MusicBeatState.switchState(new options.OptionsState());
+									case 'art_galery':
+										MusicBeatState.switchState(new GaleryArtState());	
 								}
 							});
 						}
