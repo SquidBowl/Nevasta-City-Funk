@@ -40,6 +40,7 @@ class MainMenuState extends MusicBeatState
 		'credits',
 		//#if !switch 'donate', #end
 		'options',
+		'art_galery',
 	];
 
 	var magenta:FlxSprite;
@@ -188,9 +189,14 @@ class MainMenuState extends MusicBeatState
 					case 2:
 						menuItem.y = 415;
 						menuItem.x = 35.1;
+
 					case 3:
 						menuItem.y = 580;
 						menuItem.x = 35.1;
+					
+					case 4:
+						menuItem.y = 700
+						menuItem.x = 35.1;	
 				}
 		}
 
