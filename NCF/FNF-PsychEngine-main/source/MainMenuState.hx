@@ -94,6 +94,56 @@ class MainMenuState extends MusicBeatState
 		add(magenta);
 		// magenta.scrollFactor.set();
 
+		var yScroll:Float = Math.max(0.25 - (0.05 * (optionShit.length - 4)), 0.1);
+		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('mm1'));
+		bg.scrollFactor.set(0, 0);
+		//bg.setGraphicSize(Std.int(bg.width * 1.175));
+		bg.updateHitbox();
+		bg.screenCenter();
+		bg.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bg);
+
+		camFollow = new FlxObject(0, 0, 1, 1);
+		camFollowPos = new FlxObject(0, 0, 1, 1);
+		add(camFollow);
+		add(camFollowPos);
+
+        magenta = new FlxSprite(-80).loadGraphic(Paths.image('mm1'));
+		magenta.scrollFactor.set(0, 0);
+		//magenta.setGraphicSize(Std.int(magenta.width * 1.175));
+		magenta.updateHitbox();
+		magenta.screenCenter();
+		magenta.visible = false;
+		magenta.antialiasing = ClientPrefs.globalAntialiasing;
+		magenta.color = 0xFFFFFF;
+		add(magenta);
+		// magenta.scrollFactor.set();
+
+		var yScroll:Float = Math.max(0.25 - (0.05 * (optionShit.length - 4)), 0.1);
+		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('mm2'));
+		bg.scrollFactor.set(0, 0);
+		//bg.setGraphicSize(Std.int(bg.width * 1.175));
+		bg.updateHitbox();
+		bg.screenCenter();
+		bg.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bg);
+
+		camFollow = new FlxObject(0, 0, 1, 1);
+		camFollowPos = new FlxObject(0, 0, 1, 1);
+		add(camFollow);
+		add(camFollowPos);
+
+        magenta = new FlxSprite(-80).loadGraphic(Paths.image('mm2'));
+		magenta.scrollFactor.set(0, 0);
+		//magenta.setGraphicSize(Std.int(magenta.width * 1.175));
+		magenta.updateHitbox();
+		magenta.screenCenter();
+		magenta.visible = false;
+		magenta.antialiasing = ClientPrefs.globalAntialiasing;
+		magenta.color = 0xFFFFFF;
+		add(magenta);
+		// magenta.scrollFactor.set();
+
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
 
@@ -133,14 +183,14 @@ class MainMenuState extends MusicBeatState
 
 					case 1: 
 						menuItem.y = 250;
-						menuItem.x = 140.1;
+						menuItem.x = 35.1;
 
 					case 2:
 						menuItem.y = 415;
-						menuItem.x = 245.1;
+						menuItem.x = 35.1;
 					case 3:
-						menuItem.x = 280.1;
 						menuItem.y = 580;
+						menuItem.x = 35.1;
 				}
 		}
 
