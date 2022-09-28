@@ -26,7 +26,6 @@ class GaleryArtState extends MusicBeatState
 	var curSelected:Int = -1;
 
 	private var grpOptions:FlxTypedGroup<Alphabet>;
-	private var iconArray:Array<AttachedSprite> = [];
 	private var artStuff:Array<Array<String>> = [];
 
 	var bg:FlxSprite;
