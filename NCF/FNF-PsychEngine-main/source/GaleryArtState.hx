@@ -82,7 +82,6 @@ class GaleryArtState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 
 			['artstuff'],
-			['lol',				'papupex']
 		];
 		
 		for(i in pisspoop){
