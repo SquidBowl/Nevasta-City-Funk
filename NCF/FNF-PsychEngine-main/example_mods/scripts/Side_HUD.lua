@@ -1,6 +1,6 @@
 notehitlol = 0
 sadfasd = 0 -- unused
-font = "vcr.ttf" -- the font that the text will use.
+font = "Dark Future Italic.ttf" -- the font that the text will use.
 cmoffset = -4
 cmy = 20
 tnhx = -10
