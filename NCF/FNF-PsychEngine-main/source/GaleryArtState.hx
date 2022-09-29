@@ -45,7 +45,7 @@ class GaleryArtState extends MusicBeatState
             #end
     
             persistentUpdate = true;
-            bg = new FlxSprite().loadGraphic(Paths.image('credits'));
+            bg = new FlxSprite().loadGraphic(Paths.image('art_galery'));
             add(bg);
             bg.screenCenter();
             
@@ -64,7 +64,7 @@ class GaleryArtState extends MusicBeatState
                         if(!Paths.ignoreModFolders.contains(modSplit[0].toLowerCase()) && !modsAdded.contains(modSplit[0]))
                         {
                             if(modSplit[1] == '1')
-                                pushModCreditsToList(modSplit[0]);
+                                pushModArtToList(modSplit[0]);
                             else
                                 modsAdded.push(modSplit[0]);
                         }
@@ -76,7 +76,7 @@ class GaleryArtState extends MusicBeatState
             arrayOfFolders.push('');
             for (folder in arrayOfFolders)
             {
-                pushModCreditsToList(folder);
+                pushModArtToList(folder);
             }
             #end
     
@@ -91,10 +91,10 @@ class GaleryArtState extends MusicBeatState
                 artGaleryStuff.push(i);
             }
         
-            for (i in 0...creditsStuff.length)
+            for (i in 0...artStuff.length)
             {
                 var isSelectable:Bool = !unselectableCheck(i);
-                var optionText:Alphabet = new Alphabet(0, 70 * i, creditsStuff[i][0], !isSelectable, false);
+                var optionText:Alphabet = new Alphabet(0, 70 * i, artStuff[i][0], !isSelectable, false);
                 optionText.isMenuItem = true;
                 optionText.screenCenter(X);
                 optionText.yAdd -= 70;
@@ -109,11 +109,11 @@ class GaleryArtState extends MusicBeatState
                 if(isSelectable) {
                     if(artGaleryStuff[i][5] != null)
                     {
-                        Paths.currentModDirectory = creditsStuff[i][5];
+                        Paths.currentModDirectory = artStuff[i][5];
                     }    
 
                     
-				var art:AttachedSprite = new AttachedSprite('artGalery/' + creditsStuff[i][1]);
+				var art:AttachedSprite = new AttachedSprite('artGalery/' + artStuff[i][1]);
 				art.xAdd = optionText.width + 10;
 				art.sprTracker = optionText;
 	
@@ -158,7 +158,7 @@ class GaleryArtState extends MusicBeatState
 
 		if(!quitting)
 		{
-			if(creditsStuff.length > 1)
+			if(artStuff.length > 1)
 			{
 				var shiftMult:Int = 1;
 				if(FlxG.keys.pressed.SHIFT) shiftMult = 3;
@@ -190,8 +190,8 @@ class GaleryArtState extends MusicBeatState
                     }
                 }
     
-                if(controls.ACCEPT && (creditsStuff[curSelected][3] == null || creditsStuff[curSelected][3].length > 4)) {
-                    CoolUtil.browserLoad(creditsStuff[curSelected][3]);
+                if(controls.ACCEPT && (artStuff[curSelected][3] == null || artStuff[curSelected][3].length > 4)) {
+                    CoolUtil.browserLoad(artStuff[curSelected][3]);
                 }
                 if (controls.BACK)
                 {
@@ -233,8 +233,8 @@ class GaleryArtState extends MusicBeatState
             do {
                 curSelected += change;
                 if (curSelected < 0)
-                    curSelected = creditsStuff.length - 1;
-                if (curSelected >= creditsStuff.length)
+                    curSelected = artStuff.length - 1;
+                if (curSelected >= artStuff.length)
                     curSelected = 0;
             } while(unselectableCheck(curSelected));
     
@@ -266,7 +266,7 @@ class GaleryArtState extends MusicBeatState
                 }
             }
     
-            descText.text = creditsStuff[curSelected][2];
+            descText.text = artStuff[curSelected][2];
             descText.y = FlxG.height - descText.height + offsetThing - 60;
     
             if(moveTween != null) moveTween.cancel();
@@ -277,7 +277,7 @@ class GaleryArtState extends MusicBeatState
         }
 
         function getCurrentBGColor() {
-            var bgColor:String = creditsStuff[curSelected][4];
+            var bgColor:String = artStuff[curSelected][4];
             if(!bgColor.startsWith('0x')) {
                 bgColor = '0xFF' + bgColor;
             }
@@ -285,6 +285,6 @@ class GaleryArtState extends MusicBeatState
         }
     
         private function unselectableCheck(num:Int):Bool {
-            return creditsStuff[num].length <= 1;
+            return artStuff[num].length <= 1;
         }
     }
