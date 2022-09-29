@@ -40,7 +40,6 @@ class MainMenuState extends MusicBeatState
 		'credits',
 		//#if !switch 'donate', #end
 		'options',
-		'art_galery',
 	];
 
 	var magenta:FlxSprite;
@@ -193,10 +192,6 @@ class MainMenuState extends MusicBeatState
 					case 3:
 						menuItem.y = 580;
 						menuItem.x = 35.1;
-						
-					case 4:
-						menuItem.y = 700;
-						menuItem.x = 35.1;	
 				}
 		}
 
@@ -340,9 +335,7 @@ class MainMenuState extends MusicBeatState
 											case 'credits':
 												MusicBeatState.switchState(new CreditsState());
 											case 'options':
-												MusicBeatState.switchState(new options.OptionsState());
-											case 'art_galery':
-												MusicBeatState.switchState(new GaleryArtState());		
+												MusicBeatState.switchState(new options.OptionsState());	
 										}
 									});
 								}
@@ -397,8 +390,6 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
 										MusicBeatState.switchState(new options.OptionsState());
-									case 'art_galery':
-										MusicBeatState.switchState(new GaleryArtState());	
 								}
 							});
 						}
