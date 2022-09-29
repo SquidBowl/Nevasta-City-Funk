@@ -86,7 +86,7 @@ class CreditsState extends MusicBeatState
 			['Nate7MX',				'N8',				'Director, Concept Artist, Menu BG, Artist',								'https://twitter.com/N87MX',										'5500FF'],
 			['SquidBowl',			'SquidBowl',		'Main Programmer/Source Coder, BG concept artist, Menu Artist, Game Optimizer, Chromatic Scale Maker',	'https://squidbowl.carrd.co/',			'44465C'],
 			['ZoToLegend',			'ZoTo',				'Art and Animation',														'https://twitter.com/LegendZoto',									'D464FF'],
-			['skypex',				'skypex',			'Charter, Animator, and part-time coder while Squid was on break',			'https://twitter.com/VgaSkypex',									'E0021B'],
+			['skypex',				'skypex',			'Charter/Animator/Programmer',												'https://twitter.com/VgaSkypex',									'E0021B'],
 			['HipsteryDibstery',	'HipsteryDibstery',	'Composer/Musician',														'https://twitter.com/HDibstery',									'B02CA2'],
 			['Ghost',				'Ghost',			'Composer/Musician',														'https://gamebanana.com/members/2090736',							'FEFCFC'],
 			//['thecheesepantz',	'thecheesepantz',	'Composer/Musician',														'https://youtube.com/channel/UC-pWmnyQAoywTFK_s6F0x_A',				'DAAD3C'],
