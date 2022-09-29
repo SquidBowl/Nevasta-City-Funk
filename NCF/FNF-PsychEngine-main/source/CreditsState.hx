@@ -90,13 +90,15 @@ class CreditsState extends MusicBeatState
 			['HipsteryDibstery',	'HipsteryDibstery',	'Composer/Musician',														'https://twitter.com/HDibstery',									'B02CA2'],
 			['Ghost',				'Ghost',			'Composer/Musician',														'https://gamebanana.com/members/2090736',							'FEFCFC'],
 			//['thecheesepantz',	'thecheesepantz',	'Composer/Musician',														'https://youtube.com/channel/UC-pWmnyQAoywTFK_s6F0x_A',				'DAAD3C'],
+			['NilVO',				'NilVO',			'Composer/Musician',														'https://youtube.com/channel/UChpHlk8UgLX3qlyq3528anQ',				'FFCC00'],
+
 			['DaBreadBoi',			'DaBreadBoi',		'Animator/Artist',															'https://www.youtube.com/channel/UCqc04NIX4ypVGtAKokfLTXg',			'C0894F'],
 			['JeremiahAnimates',	'JeremiahAnimates',	'Animator/Artist',															'https://linktr.ee/jeremiahanimates',								'7A35BA'],
+			['Quil',				'quil',				'Artist',																	'https://www.youtube.com/channel/UC7wta_WUgbpGVKRQkmT7gMg',			'4B3132'],
 			['TheUrbanPyro',		'TheUrbanPyro',		'Cover Artist',																'https://www.youtube.com/channel/UCEVD3OakfBy3_U__Qs2o3Pg',			'5C5C5C'],
 			['Salty',				'salty',			'Cover Artist',																'https://www.youtube.com/c/SaltyTheIronBlock',						'FFFFFF'],
-			//['NilVO',				'NilVO',			'Voice of BF',																'https://youtube.com/channel/UChpHlk8UgLX3qlyq3528anQ',				'FFCC00'],
 			['NCF Discord Server'],
-			['NCF Public Server',				'ncfdiscord',				'shwaty like a melody in my head',					'https://discord.gg/YcpH3YJzgh',			'FF0055'],
+			['NCF Public Server',	'ncfdiscord',		'shwaty like a melody in my head',											'https://discord.gg/YcpH3YJzgh',									'FF0055'],
 
 
 			['Psych Engine Team'],
