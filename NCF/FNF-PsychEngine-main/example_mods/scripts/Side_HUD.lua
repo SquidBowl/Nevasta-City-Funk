@@ -7,7 +7,7 @@ tnhx = -10
 function onCreate()
     makeLuaText("tnh", '', 250, tnhx, 259);
     setTextFont('tnh', font)
-    makeLuaText("cm", '', 200, -getProperty('tnh.x') + cmoffset, getProperty('tnh.y') + cmy);
+    makeLuaText("", '', 200, -getProperty('tnh.x') + cmoffset, getProperty('tnh.y') + cmy);
     makeLuaText("sick", 'Fire!: 0', 200, getProperty('cm.x'), getProperty('cm.y') + 30);
     makeLuaText("good", 'Decent: 0', 200, getProperty('cm.x'), getProperty('sick.y') + 30);
     makeLuaText("bad", 'Bads: 0', 200, getProperty('cm.x'), getProperty('good.y') + 30);
@@ -52,7 +52,7 @@ end
 
 function onUpdate(elapsed)
     notehitloltosting = tostring(notehitlol)
-    setTextString('cm', '' .. getProperty('combo'))
+    setTextString('', '' .. getProperty('combo'))
     setTextString('sick', 'Fire!: ' .. getProperty('sicks'))
     setTextString('good', 'Decent: ' .. getProperty('goods'))
     setTextString('bad', 'Bads: ' .. getProperty('bads'))
