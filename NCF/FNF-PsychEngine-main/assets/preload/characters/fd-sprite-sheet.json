@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DEMON idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DEMON right dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DEMON down dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DEMON left dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DEMON up dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fd-sprite-sheet",
+	"position": [
+		100,
+		190
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		0,
+		255
+	],
+	"camera_position": [
+		-170,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
