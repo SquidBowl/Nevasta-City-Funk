@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Ray idle dance"
+		},
+		{
+			"offsets": [
+				-35,
+				162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Ray left dance"
+		},
+		{
+			"offsets": [
+				10,
+				229
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Ray down dance"
+		},
+		{
+			"offsets": [
+				-43,
+				203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Ray up dance"
+		},
+		{
+			"offsets": [
+				-17,
+				172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Ray right dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ray-sprite-sheet",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nn",
+	"flip_x": true,
+	"healthbar_colors": [
+		171,
+		152,
+		90
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
