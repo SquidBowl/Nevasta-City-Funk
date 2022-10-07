@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RNNate idle dance"
+		},
+		{
+			"offsets": [
+				66,
+				84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RNNate left dance"
+		},
+		{
+			"offsets": [
+				47,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RNNate down dance"
+		},
+		{
+			"offsets": [
+				-23,
+				106
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RNNate up dance"
+		},
+		{
+			"offsets": [
+				7,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RNNate right dance"
+		},
+		{
+			"offsets": [
+				65,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "RNNate left miss"
+		},
+		{
+			"offsets": [
+				49,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "RNNate down miss"
+		},
+		{
+			"offsets": [
+				-26,
+				108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "RNNate up miss"
+		},
+		{
+			"offsets": [
+				4,
+				87
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "RNNate right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natetriste",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sadgeN8",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
