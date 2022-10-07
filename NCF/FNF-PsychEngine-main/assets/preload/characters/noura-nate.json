@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-66,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "SN idle dance"
+		},
+		{
+			"offsets": [
+				-70,
+				155
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SN left dance"
+		},
+		{
+			"offsets": [
+				-53,
+				103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SN down dance"
+		},
+		{
+			"offsets": [
+				-85,
+				232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SN up dance"
+		},
+		{
+			"offsets": [
+				102,
+				113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SN right dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/noura-nate",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nn",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		75
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
