@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				184
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "IS right dance"
+		},
+		{
+			"offsets": [
+				-1,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "IS idle dance"
+		},
+		{
+			"offsets": [
+				-6,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "IS left dance"
+		},
+		{
+			"offsets": [
+				-7,
+				165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "IS down dance"
+		},
+		{
+			"offsets": [
+				-6,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "IS up dance"
+		},
+		{
+			"offsets": [
+				-4,
+				202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "IS laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/invalid-sonic",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nn",
+	"flip_x": true,
+	"healthbar_colors": [
+		126,
+		48,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
