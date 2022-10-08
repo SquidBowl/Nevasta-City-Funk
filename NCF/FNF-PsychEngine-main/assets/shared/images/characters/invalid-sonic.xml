@@ -37,49 +37,79 @@
 	<SubTexture name="IS idle dance0017" x="2238" y="0" width="572" height="572" frameX="-1" frameY="-3" frameWidth="576" frameHeight="576"/>
 	<SubTexture name="IS idle dance0018" x="2238" y="0" width="572" height="572" frameX="-1" frameY="-3" frameWidth="576" frameHeight="576"/>
 	<SubTexture name="IS idle dance0019" x="2238" y="0" width="572" height="572" frameX="-1" frameY="-3" frameWidth="576" frameHeight="576"/>
-	<SubTexture name="IS left dance0000" x="1142" y="576" width="576" height="576" frameX="-3" frameY="-3" frameWidth="579" frameHeight="579"/>
-	<SubTexture name="IS left dance0001" x="1142" y="576" width="576" height="576" frameX="-3" frameY="-3" frameWidth="579" frameHeight="579"/>
-	<SubTexture name="IS left dance0002" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0003" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0004" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0005" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0006" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0007" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0008" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0009" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0010" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0011" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0012" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0013" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS left dance0014" x="1718" y="576" width="579" height="579"/>
-	<SubTexture name="IS right dance0000" x="2297" y="576" width="563" height="563" frameX="-3" frameY="-4" frameWidth="568" frameHeight="568"/>
-	<SubTexture name="IS right dance0001" x="2297" y="576" width="563" height="563" frameX="-3" frameY="-4" frameWidth="568" frameHeight="568"/>
-	<SubTexture name="IS right dance0002" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0003" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0004" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0005" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0006" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0007" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0008" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0009" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0010" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0011" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0012" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0013" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS right dance0014" x="2860" y="576" width="568" height="568"/>
-	<SubTexture name="IS up dance0000" x="3428" y="576" width="572" height="572" frameX="-5" frameY="-6" frameWidth="578" frameHeight="578"/>
-	<SubTexture name="IS up dance0001" x="3428" y="576" width="572" height="572" frameX="-5" frameY="-6" frameWidth="578" frameHeight="578"/>
-	<SubTexture name="IS up dance0002" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0003" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0004" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0005" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0006" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0007" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0008" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0009" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0010" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0011" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0012" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0013" x="0" y="1155" width="578" height="578"/>
-	<SubTexture name="IS up dance0014" x="0" y="1155" width="578" height="578"/>
+	<SubTexture name="IS laugh0000" x="1142" y="576" width="580" height="580" frameX="-8" frameY="-8" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0001" x="1142" y="576" width="580" height="580" frameX="-8" frameY="-8" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0002" x="1142" y="576" width="580" height="580" frameX="-8" frameY="-8" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0003" x="1722" y="576" width="576" height="576" frameX="-11" frameY="-11" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0004" x="1722" y="576" width="576" height="576" frameX="-11" frameY="-11" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0005" x="1722" y="576" width="576" height="576" frameX="-11" frameY="-11" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0006" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0007" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0008" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0009" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0010" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0011" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0012" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0013" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0014" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0015" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0016" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0017" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0018" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0019" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0020" x="2298" y="576" width="581" height="581" frameX="-7" frameY="-7" frameWidth="590" frameHeight="590"/>
+	<SubTexture name="IS laugh0021" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0022" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0023" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0024" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0025" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0026" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0027" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0028" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS laugh0029" x="2879" y="576" width="590" height="590"/>
+	<SubTexture name="IS left dance0000" x="3469" y="576" width="576" height="576" frameX="-3" frameY="-3" frameWidth="579" frameHeight="579"/>
+	<SubTexture name="IS left dance0001" x="3469" y="576" width="576" height="576" frameX="-3" frameY="-3" frameWidth="579" frameHeight="579"/>
+	<SubTexture name="IS left dance0002" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0003" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0004" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0005" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0006" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0007" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0008" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0009" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0010" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0011" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0012" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0013" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS left dance0014" x="0" y="1166" width="579" height="579"/>
+	<SubTexture name="IS right dance0000" x="579" y="1166" width="563" height="563" frameX="-3" frameY="-4" frameWidth="568" frameHeight="568"/>
+	<SubTexture name="IS right dance0001" x="579" y="1166" width="563" height="563" frameX="-3" frameY="-4" frameWidth="568" frameHeight="568"/>
+	<SubTexture name="IS right dance0002" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0003" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0004" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0005" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0006" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0007" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0008" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0009" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0010" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0011" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0012" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0013" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS right dance0014" x="1142" y="1166" width="568" height="568"/>
+	<SubTexture name="IS up dance0000" x="1710" y="1166" width="572" height="572" frameX="-5" frameY="-6" frameWidth="578" frameHeight="578"/>
+	<SubTexture name="IS up dance0001" x="1710" y="1166" width="572" height="572" frameX="-5" frameY="-6" frameWidth="578" frameHeight="578"/>
+	<SubTexture name="IS up dance0002" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0003" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0004" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0005" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0006" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0007" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0008" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0009" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0010" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0011" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0012" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0013" x="2282" y="1166" width="578" height="578"/>
+	<SubTexture name="IS up dance0014" x="2282" y="1166" width="578" height="578"/>
 </TextureAtlas>
