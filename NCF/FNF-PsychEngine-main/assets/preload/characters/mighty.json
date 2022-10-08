@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "M idle dance"
+		},
+		{
+			"offsets": [
+				-17,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "M left dance"
+		},
+		{
+			"offsets": [
+				6,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "M down dance"
+		},
+		{
+			"offsets": [
+				-27,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "M up dance"
+		},
+		{
+			"offsets": [
+				-19,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "M right dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mighty-sprites",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nn",
+	"flip_x": true,
+	"healthbar_colors": [
+		99,
+		24,
+		23
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
