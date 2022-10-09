@@ -4,7 +4,7 @@ cmoffset = -4
 cmy = 20
 tnhx = -10
 function onCreate()
-    makeLuaText("tnh", '', 250, tnhx, 259);
+    makeLuaText("tnh", '', 250, tnhx, 459);
     setTextFont('tnh', font)
     makeLuaText("cm", 'Combo: 0', 200, -getProperty('tnh.x') + cmoffset, getProperty('tnh.y') + cmy);
     makeLuaText("sick", 'Fire!: 0', 200, getProperty('cm.x'), getProperty('cm.y') + 30);
