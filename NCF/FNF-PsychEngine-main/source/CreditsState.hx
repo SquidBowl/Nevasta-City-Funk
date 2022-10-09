@@ -92,6 +92,7 @@ class CreditsState extends MusicBeatState
 			//['thecheesepantz',	'thecheesepantz',	'Composer/Musician',														'https://youtube.com/channel/UC-pWmnyQAoywTFK_s6F0x_A',				'DAAD3C'],
 			['NilVO',				'NilVO',			'Composer/Musician',														'https://youtube.com/channel/UChpHlk8UgLX3qlyq3528anQ',				'FFCC00'],
 
+			['LoneDuck',            'loneduck',         'Animation helper',                                                         '',                                                                 '6DDB8E'],
 			['DaBreadBoi',			'DaBreadBoi',		'Animator/Artist',															'https://www.youtube.com/channel/UCqc04NIX4ypVGtAKokfLTXg',			'C0894F'],
 			['JeremiahAnimates',	'JeremiahAnimates',	'Animator/Artist',															'https://linktr.ee/jeremiahanimates',								'7A35BA'],
 			['Quil',				'quil',				'Artist',																	'https://www.youtube.com/channel/UC7wta_WUgbpGVKRQkmT7gMg',			'4B3132'],
