@@ -1,5 +1,4 @@
 notehitlol = 0
-sadfasd = 0 -- unused
 font = "vcr.ttf" -- the font that the text will use.
 cmoffset = -4
 cmy = 20
