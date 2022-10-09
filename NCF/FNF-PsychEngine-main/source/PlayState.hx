@@ -903,7 +903,7 @@ class PlayState extends MusicBeatState
 		timeBarBG.yAdd = -4;
 		add(timeBarBG);
 
-		timeBar = new FlxBar(timeBarBG.x + -125, timeBarBG.y + 4, LEFT_TO_RIGHT, Std.int(timeBarBG.width - 50), Std.int(timeBarBG.height - 8), this,
+		timeBar = new FlxBar(timeBarBG.x + -140, timeBarBG.y + 4, LEFT_TO_RIGHT, Std.int(timeBarBG.width - 50), Std.int(timeBarBG.height - 8), this,
 			'songPercent', 0, 1);
 		timeBar.scrollFactor.set();
 		timeBar.createFilledBar(0xFF000000, 0xE3FF009D);
