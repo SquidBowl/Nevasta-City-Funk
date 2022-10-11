@@ -42,8 +42,7 @@ function onCreate()
     setTextFont('shit', font)
     setTextAlignment('shit', 'left')
     setObjectCamera("miss", 'other');
-    setTextSize('miss', 20);
-    setTextColor('miss', 'ff0000');
+    setTextSize('miss', 20);    
     addLuaText("miss");
     setTextFont('miss', font)
     setTextAlignment('miss', 'left')
