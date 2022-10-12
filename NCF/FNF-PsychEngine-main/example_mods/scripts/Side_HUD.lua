@@ -1,11 +1,10 @@
 notehitlol = 0
-sadfasd = 0 -- unused
 font = "vcr.ttf" -- the font that the text will use.
 cmoffset = -4
 cmy = 20
 tnhx = -10
 function onCreate()
-    makeLuaText("tnh", '', 250, tnhx, 259);
+    makeLuaText("tnh", '', 250, tnhx, 459);
     setTextFont('tnh', font)
     makeLuaText("cm", 'Combo: 0', 200, -getProperty('tnh.x') + cmoffset, getProperty('tnh.y') + cmy);
     makeLuaText("sick", 'Fire!: 0', 200, getProperty('cm.x'), getProperty('cm.y') + 30);
@@ -43,8 +42,7 @@ function onCreate()
     setTextFont('shit', font)
     setTextAlignment('shit', 'left')
     setObjectCamera("miss", 'other');
-    setTextSize('miss', 20);
-    setTextColor('miss', 'ff0000');
+    setTextSize('miss', 20);    
     addLuaText("miss");
     setTextFont('miss', font)
     setTextAlignment('miss', 'left')
