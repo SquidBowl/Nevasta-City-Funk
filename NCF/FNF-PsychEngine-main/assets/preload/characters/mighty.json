@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-6,
-				193
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": true,
-			"name": "M idle dance"
-		},
-		{
 			"offsets": [
-				-17,
+				-4,
 				193
 			],
-			"indices": [],
+			"anim": "idle",
 			"fps": 24,
+			"name": "M idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				193
+			],
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "M left dance"
+			"fps": 24,
+			"name": "M left dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				6,
+				0,
 				193
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "M down dance"
+			"fps": 24,
+			"name": "M down dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-27,
-				193
+				202
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "M up dance"
+			"fps": 24,
+			"name": "M up dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-19,
 				193
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "M right dance"
+			"fps": 24,
+			"name": "M right dance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,7 +62,7 @@
 		0,
 		350
 	],
-	"healthicon": "nn",
+	"healthicon": "mighty",
 	"flip_x": true,
 	"healthbar_colors": [
 		99,
