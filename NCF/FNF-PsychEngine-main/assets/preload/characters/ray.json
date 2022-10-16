@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				5,
 				193
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "Ray idle dance",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Ray idle dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-12,
 				162
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Ray left dance",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ray left dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				229
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Ray down dance",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ray down dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-32,
 				200
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Ray up dance",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ray up dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-17,
 				172
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Ray right dance",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ray right dance"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/ray-sprite-sheet",
 	"position": [
-		0,
-		350
+		-150,
+		280
 	],
 	"healthicon": "ray",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		90
 	],
 	"camera_position": [
-		0,
-		0
+		-150,
+		-50
 	],
 	"sing_duration": 4,
 	"scale": 1
