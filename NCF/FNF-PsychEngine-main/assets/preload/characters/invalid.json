@@ -73,7 +73,7 @@
 		-400,
 		300
 	],
-	"healthicon": "invalid",
+	"healthicon": "metal",
 	"flip_x": false,
 	"healthbar_colors": [
 		126,
