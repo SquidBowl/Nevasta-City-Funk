@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage",
+		"player1": "bluebfblue0",
+		"player2": "ray",
+		"player3": null,
+		"events": [
+			[
+				106746.575342466,
+				[
+					[
+						"Change Character",
+						"dad",
+						"invalid"
+					]
+				]
+			],
+			[
+				133047.94520548,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mighty"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"dad",
+						"invalid"
+					]
+				]
+			],
+			[
+				250517.979452055,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				290856.164383562,
+				[
+					[
+						"Change Character",
+						"dad",
+						"metal-sonic"
+					]
+				]
+			],
+			[
+				406541.095890411,
+				[
+					[
+						"Change Character",
+						"dad",
+						"invalid"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "ncf-gf",
+		"bpm": 146,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "triple-triumph"
+	}
+}
