@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "IRLNate idle dance"
+		},
+		{
+			"offsets": [
+				11,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "IRLNate down dance"
+		},
+		{
+			"offsets": [
+				-92,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "IRLNate right dance"
+		},
+		{
+			"offsets": [
+				35,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "IRLNate left dance"
+		},
+		{
+			"offsets": [
+				17,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "IRLNate up dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/irlnate",
+	"position": [
+		100,
+		190
+	],
+	"healthicon": "n8",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		0,
+		235
+	],
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
