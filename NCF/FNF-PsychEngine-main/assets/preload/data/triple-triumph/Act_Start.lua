@@ -14,10 +14,10 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		makeLuaSprite('blackscreen', 'Sonic-Act/blackscreen', 0, 0);
 		setObjectCamera('blackscreen', 'hud');
 		addLuaSprite('blackscreen', true);
-		makeLuaSprite('circle', 'Sonic-Act/Circle-triple-trouble', 777, 0);
+		makeLuaSprite('circle', 'Sonic-Act/Circle-triple-triumph', 777, 0);
 		setObjectCamera('circle', 'hud');
 		addLuaSprite('circle', true);
-		makeLuaSprite('text', 'Sonic-Act/Text-triple-trouble', -1100, 0);
+		makeLuaSprite('text', 'Sonic-Act/Text-triple-triumph', -1100, 0);
 		setObjectCamera('text', 'hud');
 		addLuaSprite('text', true);
 		runTimer('appear', 0.2, 1);
