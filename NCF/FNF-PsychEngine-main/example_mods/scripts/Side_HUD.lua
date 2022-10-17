@@ -16,6 +16,20 @@ function onCreate()
     setTextSize('tnh', 20);
     addLuaText("tnh");
 
+    if downscroll == true then
+        makeLuaText("tnh", '', 250, tnhx, 60);
+        setTextFont('tnh', font)
+        makeLuaText("cm", 'Combo: 0', 200, -getProperty('tnh.x') + cmoffset, getProperty('tnh.y') + cmy);
+        makeLuaText("sick", 'Fire!: 0', 200, getProperty('cm.x'), getProperty('cm.y') + 30);
+        makeLuaText("good", 'Decent: 0', 200, getProperty('cm.x'), getProperty('sick.y') + 30);
+        makeLuaText("bad", 'Bads: 0', 200, getProperty('cm.x'), getProperty('good.y') + 30);
+        makeLuaText("shit", 'Ass: 0', 200, getProperty('cm.x'), getProperty('bad.y') + 30);
+        makeLuaText("miss", 'Misses: 0', 200, getProperty('cm.x'), getProperty('shit.y') + 30);
+        setObjectCamera("tnh", 'other');
+        setTextSize('tnh', 20);
+        addLuaText("tnh");
+    end
+    
     setObjectCamera("cm", 'other');
     setTextSize('cm', 20);
     addLuaText("cm");
