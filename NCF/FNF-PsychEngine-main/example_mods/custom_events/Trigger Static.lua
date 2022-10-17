@@ -1,5 +1,5 @@
 function onCreate()
-    makeAnimatedLuaSprite('FlashingShitFatality','exep3/Phase3Static', 0, 0)
+    makeAnimatedLuaSprite('FlashingShitFatality','exestuff/Phase3Static', 0, 0)
     addAnimationByPrefix('FlashingShitFatality','glitch','Phase3Static instance',24,true)
     setProperty('FlashingShitFatality.alpha',0.9)
     scaleObject('FlashingShitFatality',4,4)
