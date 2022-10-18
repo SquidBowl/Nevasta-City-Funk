@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-31,
-				184
+				-46,
+				176
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "IS right dance",
-			"indices": []
+			"indices": [],
+			"name": "IS right dance"
 		},
 		{
+			"offsets": [
+				-5,
+				176
+			],
 			"loop": true,
-			"offsets": [
-				-1,
-				191
-			],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "IS idle dance",
-			"indices": []
+			"indices": [],
+			"name": "IS idle dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				2,
-				193
+				-5,
+				176
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "IS left dance",
-			"indices": []
+			"indices": [],
+			"name": "IS left dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-7,
-				165
+				-4,
+				175
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "IS down dance",
-			"indices": []
+			"indices": [],
+			"name": "IS down dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				10,
-				190
+				3,
+				175
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "IS up dance",
-			"indices": []
+			"indices": [],
+			"name": "IS up dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				12,
-				205
+				-6,
+				176
 			],
-			"anim": "laugh",
+			"loop": false,
 			"fps": 24,
-			"name": "IS laugh",
-			"indices": []
+			"anim": "laugh",
+			"indices": [],
+			"name": "IS laugh"
 		}
 	],
 	"no_antialiasing": false,
