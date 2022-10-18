@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				-25,
+				224
+			],
 			"loop": true,
-			"offsets": [
-				2,
-				193
-			],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "M idle dance",
-			"indices": []
+			"indices": [],
+			"name": "M idle dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				7,
-				193
+				-28,
+				218
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "M left dance",
-			"indices": []
+			"indices": [],
+			"name": "M left dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				193
+				-20,
+				223
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "M down dance",
-			"indices": []
+			"indices": [],
+			"name": "M down dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				3,
-				203
+				-22,
+				232
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "M up dance",
-			"indices": []
+			"indices": [],
+			"name": "M up dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				2,
-				193
+				-25,
+				224
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "M right dance",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "M right dance"
 		}
 	],
 	"no_antialiasing": false,
@@ -66,7 +66,7 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		99,
-		24,
+		4,
 		23
 	],
 	"camera_position": [
