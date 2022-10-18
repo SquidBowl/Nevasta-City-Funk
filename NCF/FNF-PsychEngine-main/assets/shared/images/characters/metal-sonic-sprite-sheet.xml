@@ -2,84 +2,76 @@
 <TextureAtlas imagePath="metal-sonic-sprite-sheet.png">
 	<!-- Created with Adobe Animate version 21.0.7.42652 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Metal down dance0000" x="0" y="0" width="674" height="674" frameX="-2" frameY="-3" frameWidth="678" frameHeight="678"/>
-	<SubTexture name="Metal down dance0001" x="0" y="0" width="674" height="674" frameX="-2" frameY="-3" frameWidth="678" frameHeight="678"/>
-	<SubTexture name="Metal down dance0002" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0003" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0004" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0005" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0006" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0007" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0008" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0009" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0010" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0011" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0012" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0013" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal down dance0014" x="674" y="0" width="678" height="678"/>
-	<SubTexture name="Metal idle dance0000" x="1352" y="0" width="705" height="705" frameX="-27" frameY="-21" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0001" x="1352" y="0" width="705" height="705" frameX="-27" frameY="-21" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0002" x="2057" y="0" width="703" height="703" frameX="-28" frameY="-23" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0003" x="2057" y="0" width="703" height="703" frameX="-28" frameY="-23" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0004" x="2760" y="0" width="701" height="701" frameX="-29" frameY="-25" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0005" x="2760" y="0" width="701" height="701" frameX="-29" frameY="-25" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0006" x="0" y="705" width="694" height="694" frameX="-20" frameY="-31" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0007" x="0" y="705" width="694" height="694" frameX="-20" frameY="-31" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0008" x="694" y="705" width="726" height="726" frameX="-3" frameY="-4" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0009" x="694" y="705" width="726" height="726" frameX="-3" frameY="-4" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0010" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0011" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0012" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0013" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0014" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0015" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0016" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0017" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0018" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal idle dance0019" x="1420" y="705" width="731" height="731" frameX="0" frameY="0" frameWidth="732" frameHeight="731"/>
-	<SubTexture name="Metal left dance0000" x="2151" y="705" width="691" height="691" frameX="-2" frameY="-4" frameWidth="695" frameHeight="695"/>
-	<SubTexture name="Metal left dance0001" x="2151" y="705" width="691" height="691" frameX="-2" frameY="-4" frameWidth="695" frameHeight="695"/>
-	<SubTexture name="Metal left dance0002" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0003" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0004" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0005" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0006" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0007" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0008" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0009" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0010" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0011" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0012" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0013" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal left dance0014" x="2842" y="705" width="695" height="695"/>
-	<SubTexture name="Metal right dance0000" x="0" y="1436" width="680" height="680"/>
-	<SubTexture name="Metal right dance0001" x="0" y="1436" width="680" height="680"/>
-	<SubTexture name="Metal right dance0002" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0003" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0004" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0005" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0006" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0007" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0008" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0009" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0010" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0011" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0012" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0013" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal right dance0014" x="680" y="1436" width="679" height="679" frameX="0" frameY="-1" frameWidth="680" frameHeight="680"/>
-	<SubTexture name="Metal up dance0000" x="1359" y="1436" width="664" height="664" frameX="-14" frameY="-25" frameWidth="693" frameHeight="693"/>
-	<SubTexture name="Metal up dance0001" x="1359" y="1436" width="664" height="664" frameX="-14" frameY="-25" frameWidth="693" frameHeight="693"/>
-	<SubTexture name="Metal up dance0002" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0003" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0004" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0005" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0006" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0007" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0008" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0009" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0010" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0011" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0012" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0013" x="2023" y="1436" width="693" height="693"/>
-	<SubTexture name="Metal up dance0014" x="2023" y="1436" width="693" height="693"/>
+	<SubTexture name="Metal down dance0000" x="0" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0001" x="0" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0002" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0003" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0004" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0005" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0006" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0007" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0008" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0009" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0010" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0011" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0012" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal down dance0013" x="727" y="0" width="727" height="727"/>
+	<SubTexture name="Metal idle dance0000" x="1454" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0001" x="1454" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0002" x="2181" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0003" x="2181" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0004" x="2908" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0005" x="2908" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0006" x="0" y="727" width="727" height="727" frameX="-24" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0007" x="0" y="727" width="727" height="727" frameX="-24" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0008" x="727" y="727" width="727" height="727" frameX="0" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0009" x="727" y="727" width="727" height="727" frameX="0" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0010" x="727" y="727" width="727" height="727" frameX="0" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0011" x="727" y="727" width="727" height="727" frameX="0" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0012" x="1454" y="727" width="727" height="727" frameX="0" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0013" x="1454" y="727" width="727" height="727" frameX="0" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0014" x="2181" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal idle dance0015" x="2181" y="0" width="727" height="727" frameX="-12" frameY="0" frameWidth="751" frameHeight="727"/>
+	<SubTexture name="Metal left dance0000" x="2181" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0001" x="2181" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0002" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0003" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0004" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0005" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0006" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0007" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0008" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0009" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0010" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0011" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0012" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal left dance0013" x="2908" y="727" width="727" height="727"/>
+	<SubTexture name="Metal right dance0000" x="0" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0001" x="0" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0002" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0003" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0004" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0005" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0006" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0007" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0008" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0009" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0010" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0011" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0012" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal right dance0013" x="727" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0000" x="1454" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0001" x="1454" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0002" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0003" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0004" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0005" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0006" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0007" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0008" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0009" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0010" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0011" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0012" x="2181" y="1454" width="727" height="727"/>
+	<SubTexture name="Metal up dance0013" x="2181" y="1454" width="727" height="727"/>
 </TextureAtlas>
