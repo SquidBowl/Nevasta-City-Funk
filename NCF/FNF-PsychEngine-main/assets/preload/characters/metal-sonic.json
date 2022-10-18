@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				-22,
+				-42,
+				154
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Metal right dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-42,
+				154
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Metal idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				154
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Metal left dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Metal down dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
 				151
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Metal right dance"
-		},
-		{
-			"offsets": [
-				-3,
-				196
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Metal idle dance"
-		},
-		{
-			"offsets": [
-				-20,
-				165
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Metal left dance"
-		},
-		{
-			"offsets": [
-				-25,
-				150
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Metal down dance"
-		},
-		{
-			"offsets": [
-				-17,
-				165
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Metal up dance"
+			"fps": 24,
+			"name": "Metal up dance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -66,7 +66,7 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		37,
-		86,
+		106,
 		173
 	],
 	"camera_position": [
