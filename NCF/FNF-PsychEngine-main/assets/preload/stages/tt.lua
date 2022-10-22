@@ -12,7 +12,7 @@ function onCreate()
 	makeLuaSprite('ttbg-pixelpart', 'tt/ttbg-pixelpart', -500, -500);
 	setLuaSpriteScrollFactor('ttbg-pixelpart', 1, 1);
 
-	makeLuaSprite('ttunder', 'tt/ttunder', -500, -300);
+	makeLuaSprite('ttunder', 'tt/ttunder', -500, -25);
 	setLuaSpriteScrollFactor('ttunder', 1, 1);
 
 	addLuaSprite('ttbg-normalbg', false);
