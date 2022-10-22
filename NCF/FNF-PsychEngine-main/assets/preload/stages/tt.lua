@@ -3,7 +3,7 @@ function onCreate()
 	makeLuaSprite('ttbg-normalbg', 'tt/ttbg-normalbg', -500, -500);
 	setLuaSpriteScrollFactor('ttbg-normalbg', 0.6, 0.6);
 	
-	makeLuaSprite('ttbg-abg', 'tt/ttbg-abg', -500, -500);
+	makeLuaSprite('ttbg-abg', 'tt/ttbg-abg', -470, -500);
 	setLuaSpriteScrollFactor('ttbg-abg', 1, 1);
 
 	makeLuaSprite('ttbg-front', 'tt/ttbg-front', -500, -500);
