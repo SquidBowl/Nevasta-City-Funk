@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('ttbg-normalbg', 'tt/ttbg-normalbg', -500, -500);
+	makeLuaSprite('ttbg-normalbg', 'tt/ttbg-normalbg', -500, -535);
 	setLuaSpriteScrollFactor('ttbg-normalbg', 0.6, 0.6);
 	
 	makeLuaSprite('ttbg-abg', 'tt/ttbg-abg', -470, -500);
