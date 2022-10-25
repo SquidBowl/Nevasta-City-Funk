@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				21,
 				94
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate idle dance",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "RNNate idle dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				66,
 				84
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate left dance",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RNNate left dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				47,
 				85
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate down dance",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RNNate down dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-23,
 				106
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate up dance",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "RNNate up dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				86
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate right dance",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RNNate right dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				65,
 				90
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate left miss",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "RNNate left miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				49,
 				89
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate down miss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "RNNate down miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				108
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate up miss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "RNNate up miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				4,
 				87
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "RNNate right miss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RNNate right miss"
 		}
 	],
 	"no_antialiasing": false,
@@ -114,7 +114,7 @@
 		255
 	],
 	"camera_position": [
-		-230,
+		-300,
 		0
 	],
 	"sing_duration": 4,
