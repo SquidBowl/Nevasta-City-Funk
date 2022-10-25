@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				21,
 				94
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "RNNate idle dance"
+			"fps": 24,
+			"name": "RNNate idle dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				66,
 				84
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "RNNate left dance"
+			"fps": 24,
+			"name": "RNNate left dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				47,
 				85
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "RNNate down dance"
+			"fps": 24,
+			"name": "RNNate down dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-23,
 				106
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "RNNate up dance"
+			"fps": 24,
+			"name": "RNNate up dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				7,
 				86
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "RNNate right dance"
+			"fps": 24,
+			"name": "RNNate right dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				65,
 				90
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "RNNate left miss"
+			"fps": 24,
+			"name": "RNNate left miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				49,
 				89
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "RNNate down miss"
+			"fps": 24,
+			"name": "RNNate down miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-26,
 				108
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "RNNate up miss"
+			"fps": 24,
+			"name": "RNNate up miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				4,
 				87
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "RNNate right miss"
+			"fps": 24,
+			"name": "RNNate right miss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -114,7 +114,7 @@
 		255
 	],
 	"camera_position": [
-		0,
+		-230,
 		0
 	],
 	"sing_duration": 4,
