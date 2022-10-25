@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "fantasma",
+		"player1": "n8sad",
+		"player2": "hidenray",
+		"player3": null,
+		"events": [
+			[
+				10500,
+				[
+					[
+						"Trigger Static",
+						"bf",
+						"noura-nate"
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Trigger Static",
+						"bf",
+						"noura-nate"
+					]
+				]
+			],
+			[
+				35955.46875,
+				[
+					[
+						"Change Character",
+						"bf",
+						"noura-nate"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Phantasm"
+	}
+}
