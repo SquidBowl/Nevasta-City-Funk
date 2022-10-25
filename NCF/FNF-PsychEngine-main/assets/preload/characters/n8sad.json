@@ -103,7 +103,7 @@
 	"no_antialiasing": false,
 	"image": "characters/natetriste",
 	"position": [
-		0,
+		200,
 		350
 	],
 	"healthicon": "sadgeN8",
