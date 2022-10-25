@@ -11,8 +11,8 @@
 				[
 					[
 						"Trigger Static",
-						"bf",
-						"noura-nate"
+						"",
+						""
 					]
 				]
 			],
@@ -21,8 +21,8 @@
 				[
 					[
 						"Trigger Static",
-						"bf",
-						"noura-nate"
+						"",
+						""
 					]
 				]
 			],
@@ -33,6 +33,86 @@
 						"Change Character",
 						"bf",
 						"noura-nate"
+					]
+				]
+			],
+			[
+				46500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59962.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"n8sad"
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71960.15625,
+				[
+					[
+						"Change Character",
+						"bf",
+						"noura-nate"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95962.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"n8sad"
 					]
 				]
 			]
