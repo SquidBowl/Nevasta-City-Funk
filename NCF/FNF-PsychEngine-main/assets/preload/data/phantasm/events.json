@@ -135,6 +135,26 @@
 						""
 					]
 				]
+			],
+			[
+				119962.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"noura-nate"
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
 			]
 		],
 		"notes": [],
