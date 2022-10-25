@@ -10,7 +10,7 @@ function onCreate()
 	setObjectCamera('songBar', 'other')
 	addLuaSprite('songBar', true)
 
-	makeLuaText('JukeBoxText', 'Original song from:', 300, -305-IntroTagWidth, 30)
+	makeLuaText('JukeBoxText', 'Original Song from:', 300, -305-IntroTagWidth, 30)
 	setTextAlignment('JukeBoxText', 'left')
 	setObjectCamera('JukeBoxText', 'other')
 	setTextSize('JukeBoxText', IntroTextSize)
