@@ -165,6 +165,26 @@
 						"n8sad"
 					]
 				]
+			],
+			[
+				142500,
+				[
+					[
+						"Trigger Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143962.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"noura-nate"
+					]
+				]
 			]
 		],
 		"notes": [],
