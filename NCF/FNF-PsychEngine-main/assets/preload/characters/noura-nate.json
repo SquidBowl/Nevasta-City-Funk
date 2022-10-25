@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				21,
+				539,
 				152
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SN left dance"
+			"fps": 24,
+			"name": "SN left dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				26,
 				112
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SN down dance"
-		},
-		{
-			"offsets": [
-				7,
-				219
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "SN up dance"
+			"name": "SN down dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				173,
+				-44,
+				230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SN up dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
 				98
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SN right dance"
-		},
-		{
-			"offsets": [
-				13,
-				148
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "SN left miss"
+			"name": "SN right dance",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				547,
+				149
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "SN left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				46,
 				108
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "SN down miss"
-		},
-		{
-			"offsets": [
-				27,
-				218
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "SN up miss"
+			"name": "SN down miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				168,
+				-31,
+				227
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SN up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
 				97
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "SN right miss"
+			"fps": 24,
+			"name": "SN right miss",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				21,
 				190
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "SN idle dance"
+			"fps": 24,
+			"name": "SN idle dance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
