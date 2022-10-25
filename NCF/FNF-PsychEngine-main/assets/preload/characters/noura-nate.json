@@ -2,19 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-66,
-				193
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
-			"loop": true,
-			"name": "SN idle dance"
-		},
-		{
-			"offsets": [
-				-70,
-				155
+				21,
+				152
 			],
 			"indices": [],
 			"fps": 24,
@@ -24,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-53,
-				103
+				26,
+				112
 			],
 			"indices": [],
 			"fps": 24,
@@ -35,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-85,
-				232
+				7,
+				219
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,14 +35,69 @@
 		},
 		{
 			"offsets": [
-				102,
-				113
+				173,
+				98
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
 			"name": "SN right dance"
+		},
+		{
+			"offsets": [
+				13,
+				148
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "SN left miss"
+		},
+		{
+			"offsets": [
+				46,
+				108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "SN down miss"
+		},
+		{
+			"offsets": [
+				27,
+				218
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "SN up miss"
+		},
+		{
+			"offsets": [
+				168,
+				97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "SN right miss"
+		},
+		{
+			"offsets": [
+				21,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "SN idle dance"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +109,9 @@
 	"healthicon": "nn",
 	"flip_x": true,
 	"healthbar_colors": [
+		85,
 		0,
-		0,
-		75
+		255
 	],
 	"camera_position": [
 		0,
