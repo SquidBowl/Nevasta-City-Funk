@@ -710,7 +710,11 @@ class PlayState extends MusicBeatState
                 var bg1floor:BGSprite = new BGSprite('bg1/bg1floor', -600, -400, 1, 1);
                 bg1floor.setGraphicSize(Std.int(bg1floor.width * 1.1));
                 bg1floor.updateHitbox();
-                add(bg1floor);		
+                add(bg1floor);	
+
+			case 'bruh': //Forestal-Desire
+                var bg:BGSprite = new BGSprite('bruh', -1850, -480, 1.7, 1.5);
+                add(bg);		
 		}
 
 		if(isPixelStage) {
