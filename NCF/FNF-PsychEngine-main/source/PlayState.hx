@@ -714,7 +714,11 @@ class PlayState extends MusicBeatState
 
 			case 'bruh': //Forestal-Desire
                 var bg:BGSprite = new BGSprite('bruh', -650, -280, 1, 1);
-                add(bg);		
+                add(bg);	
+				
+			case 'fantasma': //Phantasm
+                var bg:BGSprite = new BGSprite('normal', -100, 50, 1, 1);
+                add(bg);	
 		}
 
 		if(isPixelStage) {
