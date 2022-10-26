@@ -712,7 +712,26 @@ class PlayState extends MusicBeatState
                 bg1floor.updateHitbox();
                 add(bg1floor);	
 
-			case 'bruh': //Forestal-Desire
+			case 'tt': //Triple Triumph
+                var bg:BGSprite = new BGSprite('tt/ttbgnormalbg', -500, -535, 0.6, 0.6);
+                add(bg);
+
+                var ttbgfront:BGSprite = new BGSprite('tt/ttbgfront', -500, -500, 1, 1);
+                ttbgfront.setGraphicSize(Std.int(ttbgfront.width * 1.1));
+                ttbgfront.updateHitbox();
+                add(ttbgfront);
+
+                var ttbgpixelpart:BGSprite = new BGSprite('tt/ttbgpixelpart', -500, -500, 1, 1);
+                ttbgpixelpart.setGraphicSize(Std.int(ttbgpixelpart.width * 1.1));
+                ttbgpixelpart.updateHitbox();
+                add(ttbgpixelpart);
+
+                var ttunder:BGSprite = new BGSprite('tt/ttunder', -500, -25, 1, 1);
+                ttunder.setGraphicSize(Std.int(ttunder.width * 1.1));
+                ttunder.updateHitbox();
+                add(ttunder);	
+
+			case 'bruh': //Forestal Desire
                 var bg:BGSprite = new BGSprite('bruh', -650, -280, 1, 1);
                 add(bg);	
 				
