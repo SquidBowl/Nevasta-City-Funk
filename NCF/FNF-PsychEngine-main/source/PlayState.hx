@@ -716,7 +716,7 @@ class PlayState extends MusicBeatState
                 var bg:BGSprite = new BGSprite('evergreen/egsky', -500, -1100, 0.7, 0.7);
                 add(bg);
 
-                var bg1sky:BGSprite = new BGSprite('evergreen/egtreebackground', -260, -400, 0.5, 0.5);
+                var egtreebackground:BGSprite = new BGSprite('evergreen/egtreebackground', -260, -400, 0.5, 0.5);
                 egtreebackground.setGraphicSize(Std.int(egtreebackground.width * 1.1));
                 egtreebackground.updateHitbox();
                 add(egtreebackground);
