@@ -692,59 +692,7 @@ class PlayState extends MusicBeatState
 					bg.scale.set(6, 6);
 					bg.antialiasing = false;
 					add(bg);
-				}
-			case 'nevastacitybg': //Week Nate
-                var bg:BGSprite = new BGSprite('bg1/bg1sky', -500, -300, 0.4, 0.4);
-                add(bg);
-
-                var bg1sky:BGSprite = new BGSprite('bg1/bg1city', -570, -300, 0.7, 0.7);
-                bg1sky.setGraphicSize(Std.int(bg1sky.width * 1.1));
-                bg1sky.updateHitbox();
-                add(bg1sky);
-
-                var bg1terraces:BGSprite = new BGSprite('bg1/bg1terraces', -570, -350, 0.9, 0.9);
-                bg1terraces.setGraphicSize(Std.int(bg1terraces.width * 1.1));
-                bg1terraces.updateHitbox();
-                add(bg1terraces);
-
-                var bg1floor:BGSprite = new BGSprite('bg1/bg1floor', -600, -400, 1, 1);
-                bg1floor.setGraphicSize(Std.int(bg1floor.width * 1.1));
-                bg1floor.updateHitbox();
-                add(bg1floor);	
-			
-			case 'Evergreen': //Week Tyler
-                var bg:BGSprite = new BGSprite('evergreen/egsky', -500, -1100, 0.7, 0.7);
-                add(bg);
-
-                var egtreebackground:BGSprite = new BGSprite('evergreen/egtreebackground', -260, -400, 0.5, 0.5);
-                egtreebackground.setGraphicSize(Std.int(egtreebackground.width * 1.1));
-                egtreebackground.updateHitbox();
-                add(egtreebackground);
-
-                var egtreesmiddle:BGSprite = new BGSprite('evergreen/egtreesmiddle', -450, -750, 0.7, 0.7);
-                egtreesmiddle.setGraphicSize(Std.int(egtreesmiddle.width * 1.1));
-                egtreesmiddle.updateHitbox();
-                add(egtreesmiddle);
-
-                var egtreesfront:BGSprite = new BGSprite('evergreen/egtreesfront', -250, -370, 0.9, 0.9);
-                egtreesfront.setGraphicSize(Std.int(egtreesfront.width * 1.1));
-                egtreesfront.updateHitbox();
-                add(egtreesfront);		
-
-				var egground:BGSprite = new BGSprite('evergreen/egground', -500, 530, 1, 1);
-                egground.setGraphicSize(Std.int(egground.width * 1.1));
-                egground.updateHitbox();
-                add(egground);		
-
-				var egfronttree1:BGSprite = new BGSprite('evergreen/egfronttree1', 690, -120, 0.9, 0.9);
-                egfronttree1.setGraphicSize(Std.int(egfronttree1.width * 1.1));
-                egfronttree1.updateHitbox();
-                add(egfronttree1);		
-
-				var egfronttree2:BGSprite = new BGSprite('evergreen/egfronttree2', -710, -100, 0.9, 0.9);
-                egfronttree2.setGraphicSize(Std.int(egfronttree2.width * 1.1));
-                egfronttree2.updateHitbox();
-                add(egfronttree2);		
+				}	
 		}
 
 		if(isPixelStage) {
