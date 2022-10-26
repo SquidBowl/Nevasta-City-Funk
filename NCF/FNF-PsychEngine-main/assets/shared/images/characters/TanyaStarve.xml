@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TanyaStarve.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tanright instance 10000" x="47" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10001" x="47" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10002" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10003" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10004" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10005" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10006" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10007" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10008" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10009" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10010" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10011" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10012" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10013" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10014" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10015" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10016" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10017" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10018" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10019" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanright instance 10020" x="464" y="47" width="393" height="644"/>
+	<SubTexture name="tanup instance 10000" x="881" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10001" x="881" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10002" x="1272" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10003" x="1272" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10004" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10005" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10006" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10007" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10008" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10009" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10010" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10011" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10012" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10013" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10014" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10015" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10016" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10017" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10018" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10019" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10020" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10021" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10022" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10023" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10024" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10025" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10026" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10027" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10028" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10029" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10030" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10031" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10032" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10033" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanup instance 10034" x="1663" y="47" width="367" height="652"/>
+	<SubTexture name="tanya idle instance 10000" x="2054" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10001" x="2054" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10002" x="2462" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10003" x="2462" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10004" x="2870" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10005" x="2870" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10006" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10007" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10008" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10009" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10010" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10011" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10012" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya idle instance 10013" x="3278" y="47" width="384" height="681"/>
+	<SubTexture name="tanya left instance 10000" x="47" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10001" x="47" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10002" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10003" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10004" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10005" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10006" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10007" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10008" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10009" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10010" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10011" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10012" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10013" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10014" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10015" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10016" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanya left instance 10017" x="492" y="752" width="421" height="665"/>
+	<SubTexture name="tanyadown instance 10000" x="937" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10001" x="937" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10002" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10003" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10004" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10005" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10006" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10007" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10008" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10009" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10010" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10011" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10012" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10013" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10014" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10015" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10016" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10017" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10018" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10019" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10020" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10021" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10022" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10023" x="1351" y="752" width="390" height="634"/>
+	<SubTexture name="tanyadown instance 10024" x="1351" y="752" width="390" height="634"/>
+</TextureAtlas>
