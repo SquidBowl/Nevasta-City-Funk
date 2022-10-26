@@ -693,6 +693,24 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+			case 'nevastacitybg': //Week Nate
+                var bg:BGSprite = new BGSprite('bg1/bg1sky', -500, -300, 0.4, 0.4);
+                add(bg);
+
+                var bg1sky:BGSprite = new BGSprite('bg1/bg1city', -570, -300, 0.7, 0.7);
+                bg1sky.setGraphicSize(Std.int(bg1sky.width * 1.1));
+                bg1sky.updateHitbox();
+                add(bg1sky);
+
+                var bg1terraces:BGSprite = new BGSprite('bg1/bg1terraces', -570, -350, 0.6, 0.6);
+                bg1terraces.setGraphicSize(Std.int(bg1terraces.width * 1.1));
+                bg1terraces.updateHitbox();
+                add(bg1terraces);
+
+                var bg1floor:BGSprite = new BGSprite('bg1/bg1floor', -600, -400, 1, 1);
+                bg1floor.setGraphicSize(Std.int(bg1floor.width * 1.1));
+                bg1floor.updateHitbox();
+                add(bg1floor);	
 		}
 
 		if(isPixelStage) {
