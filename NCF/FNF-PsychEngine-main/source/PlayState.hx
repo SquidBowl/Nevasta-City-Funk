@@ -716,17 +716,17 @@ class PlayState extends MusicBeatState
                 var bg:BGSprite = new BGSprite('tt/ttbgnormalbg', -500, -535, 0.6, 0.6);
                 add(bg);
 
-                var ttbgfront:BGSprite = new BGSprite('tt/ttbgfront', -500, -500, 1, 1);
+                var ttbgfront:BGSprite = new BGSprite('tt/ttbgfront', -750, -650, 1, 1);
                 ttbgfront.setGraphicSize(Std.int(ttbgfront.width * 1.1));
                 ttbgfront.updateHitbox();
                 add(ttbgfront);
 
-                var ttbgpixelpart:BGSprite = new BGSprite('tt/ttbgpixelpart', -500, -500, 1, 1);
+                var ttbgpixelpart:BGSprite = new BGSprite('tt/ttbgpixelpart', -620, -650, 1, 1);
                 ttbgpixelpart.setGraphicSize(Std.int(ttbgpixelpart.width * 1.1));
                 ttbgpixelpart.updateHitbox();
                 add(ttbgpixelpart);
 
-                var ttunder:BGSprite = new BGSprite('tt/ttunder', -500, -25, 1, 1);
+                var ttunder:BGSprite = new BGSprite('tt/ttunder', -500, -70, 1, 1);
                 ttunder.setGraphicSize(Std.int(ttunder.width * 1.1));
                 ttunder.updateHitbox();
                 add(ttunder);	
