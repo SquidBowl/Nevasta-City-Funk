@@ -702,7 +702,7 @@ class PlayState extends MusicBeatState
                 bg1sky.updateHitbox();
                 add(bg1sky);
 
-                var bg1terraces:BGSprite = new BGSprite('bg1/bg1terraces', -570, -350, 0.6, 0.6);
+                var bg1terraces:BGSprite = new BGSprite('bg1/bg1terraces', -570, -350, 0.9, 0.9);
                 bg1terraces.setGraphicSize(Std.int(bg1terraces.width * 1.1));
                 bg1terraces.updateHitbox();
                 add(bg1terraces);
