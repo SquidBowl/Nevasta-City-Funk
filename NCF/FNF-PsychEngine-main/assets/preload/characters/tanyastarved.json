@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "tanya idle instance"
+		},
+		{
+			"offsets": [
+				107,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tanya left instance"
+		},
+		{
+			"offsets": [
+				-5,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tanyadown instance"
+		},
+		{
+			"offsets": [
+				-80,
+				-47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tanright instance"
+		},
+		{
+			"offsets": [
+				-5,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tanup instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TanyaStarve",
+	"position": [
+		100,
+		370
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
