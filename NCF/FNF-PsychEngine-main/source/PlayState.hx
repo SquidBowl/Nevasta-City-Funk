@@ -732,7 +732,7 @@ class PlayState extends MusicBeatState
                 add(ttunder);	
 
 			case 'bruh': //Forestal Desire
-                var bg:BGSprite = new BGSprite('covers/bruh', -650, -280, 1, 1);
+                var bg:BGSprite = new BGSprite('fd/bruh', -650, -280, 1, 1);
                 add(bg);	
 				
 			case 'fantasma': //Phantasm
