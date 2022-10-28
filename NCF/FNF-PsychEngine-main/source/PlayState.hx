@@ -732,15 +732,15 @@ class PlayState extends MusicBeatState
                 add(ttunder);	
 
 			case 'starved': //???
-                var bg:BGSprite = new BGSprite('covers/stcity', -1400, -170, 0.7, 0.7);
+                var bg:BGSprite = new BGSprite('covers/stcity', -1000, -170, 0.7, 0.7);
                 add(bg);
 
-                var stbg:BGSprite = new BGSprite('covers/stbg', -1400, -170, 1, 1);
+                var stbg:BGSprite = new BGSprite('covers/stbg', -1000, -170, 1, 1);
                 stbg.setGraphicSize(Std.int(stbg.width * 1.1));
                 stbg.updateHitbox();
                 add(stbg);
 
-                var nateanddaikifuckingdead:BGSprite = new BGSprite('covers/nateanddaikifuckingdead', -1400, -170, 1, 1);
+                var nateanddaikifuckingdead:BGSprite = new BGSprite('covers/nateanddaikifuckingdead', -1000, -170, 1, 1);
                 nateanddaikifuckingdead.setGraphicSize(Std.int(nateanddaikifuckingdead.width * 1.1));
                 nateanddaikifuckingdead.updateHitbox();
                 add(nateanddaikifuckingdead);
