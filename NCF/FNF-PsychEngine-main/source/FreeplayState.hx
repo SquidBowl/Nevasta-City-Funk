@@ -7,6 +7,7 @@ import editors.ChartingState;
 import flash.text.TextField;
 import flixel.FlxG;
 import flixel.FlxSprite;
+import flixel.addons.display.FlxBackdrop;
 import flixel.addons.display.FlxGridOverlay;
 import flixel.addons.transition.FlxTransitionableState;
 import flixel.group.FlxGroup.FlxTypedGroup;
@@ -101,7 +102,17 @@ class FreeplayState extends MusicBeatState
 			}
 		}*/
 
-		bg = new FlxSprite().loadGraphic(Paths.image('freeplay'));
+		bg = new FlxSprite().loadGraphic(Paths.image('tileFP'));
+		bg.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bg);
+		bg.screenCenter();
+
+		var backdrop:FlxBackdrop = new FlxBackdrop(Paths.image('cityFP'), 1, 1, true, true, 0, 0);
+		backdrop.velocity.x = 10;
+		backdrop.velocity.y = 0;
+		add(backdrop);
+
+		bg = new FlxSprite().loadGraphic(Paths.image('barFP'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 		bg.screenCenter();
