@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				-5,
 				0
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "tanya idle instance",
-			"indices": []
+			"indices": [],
+			"name": "tanya idle instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				107,
-				-10
+				-93,
+				-17
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "tanya left instance",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tanya left instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				-51
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "tanyadown instance",
-			"indices": []
+			"indices": [],
+			"name": "tanyadown instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-80,
-				-47
+				103,
+				-48
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "tanright instance",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tanright instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				16
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "tanup instance",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "tanup instance"
 		}
 	],
 	"no_antialiasing": false,
