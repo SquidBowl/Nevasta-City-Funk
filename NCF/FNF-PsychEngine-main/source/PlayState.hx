@@ -740,10 +740,10 @@ class PlayState extends MusicBeatState
                 stbg.updateHitbox();
                 add(stbg);
 
-                var nate and daiki fucking dead:BGSprite = new BGSprite('covers/nate and daiki fucking dead', -650, 600, 1, 1);
-                nate and daiki fucking dead.setGraphicSize(Std.int(nate and daiki fucking dead.width * 1.1));
-                nate and daiki fucking dead.updateHitbox();
-                add(nate and daiki fucking dead);
+                var nateanddaikifuckingdead:BGSprite = new BGSprite('covers/nateanddaikifuckingdead', -650, 600, 1, 1);
+                nateanddaikifuckingdead.setGraphicSize(Std.int(nateanddaikifuckingdead.width * 1.1));
+                nateanddaikifuckingdead.updateHitbox();
+                add(nateanddaikifuckingdead);
 
 			case 'bruh': //Forestal Desire
                 var bg:BGSprite = new BGSprite('covers/bruh', -650, -280, 1, 1);
