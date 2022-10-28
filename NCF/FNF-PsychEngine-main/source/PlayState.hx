@@ -713,26 +713,26 @@ class PlayState extends MusicBeatState
                 add(bg1floor);	
 
 			case 'tt': //Triple Triumph
-                var bg:BGSprite = new BGSprite('tt/ttbgnormalbg', -500, -535, 0.6, 0.6);
+                var bg:BGSprite = new BGSprite('covers/ttbgnormalbg', -500, -535, 0.6, 0.6);
                 add(bg);
 
-                var ttbgfront:BGSprite = new BGSprite('tt/ttbgfront', -750, -650, 1, 1);
+                var ttbgfront:BGSprite = new BGSprite('covers/ttbgfront', -750, -650, 1, 1);
                 ttbgfront.setGraphicSize(Std.int(ttbgfront.width * 1.1));
                 ttbgfront.updateHitbox();
                 add(ttbgfront);
 
-                var ttbgpixelpart:BGSprite = new BGSprite('tt/ttbgpixelpart', -620, -650, 1, 1);
+                var ttbgpixelpart:BGSprite = new BGSprite('covers/ttbgpixelpart', -620, -650, 1, 1);
                 ttbgpixelpart.setGraphicSize(Std.int(ttbgpixelpart.width * 1.1));
                 ttbgpixelpart.updateHitbox();
                 add(ttbgpixelpart);
 
-                var ttunder:BGSprite = new BGSprite('tt/ttunder', -500, -70, 1, 1);
+                var ttunder:BGSprite = new BGSprite('covers/ttunder', -500, -70, 1, 1);
                 ttunder.setGraphicSize(Std.int(ttunder.width * 1.1));
                 ttunder.updateHitbox();
                 add(ttunder);	
 
 			case 'bruh': //Forestal Desire
-                var bg:BGSprite = new BGSprite('fd/bruh', -650, -280, 1, 1);
+                var bg:BGSprite = new BGSprite('covers/bruh', -650, -280, 1, 1);
                 add(bg);	
 				
 			case 'fantasma': //Phantasm
