@@ -752,6 +752,9 @@ class PlayState extends MusicBeatState
 			case 'fantasma': //Phantasm
                 var bg:BGSprite = new BGSprite('covers/normal', -200, -150, 1, 1);
                 add(bg);	
+			case 'mono': //Monochrome
+                var bg:BGSprite = new BGSprite('nothinglol', -200, -150, 1, 1);
+                add(bg);		
 		}
 
 		if(isPixelStage) {
