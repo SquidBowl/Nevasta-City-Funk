@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				28
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Tanya Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				29
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Tanya Retry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "tanya dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tanya_Game_Over",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

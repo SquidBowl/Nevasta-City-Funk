@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tanya Game Over.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tanya Dead Loop0000" x="47" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0001" x="580" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0002" x="1113" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0003" x="1646" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0004" x="2179" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0005" x="2712" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0006" x="3245" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0007" x="3778" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0008" x="4311" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0009" x="4844" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0010" x="5377" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0011" x="5910" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0012" x="6443" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0013" x="6976" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0014" x="7509" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0015" x="47" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0016" x="580" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0017" x="1113" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0018" x="1646" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0019" x="2179" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0020" x="2712" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0021" x="3245" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0022" x="3778" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0023" x="4311" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0024" x="4844" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0025" x="5377" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0026" x="5910" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0027" x="6443" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0028" x="6976" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0029" x="7509" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0030" x="47" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0031" x="580" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0032" x="1113" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0033" x="1646" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0034" x="2179" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0035" x="2712" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0036" x="3245" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0037" x="3778" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0038" x="4311" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0039" x="4844" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0040" x="5377" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0041" x="5910" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0042" x="6443" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0043" x="6976" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0044" x="7509" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0045" x="47" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0046" x="580" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0047" x="1113" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0048" x="1646" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0049" x="2179" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0050" x="2712" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0051" x="3245" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0052" x="3778" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0053" x="4311" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0054" x="4844" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0055" x="5377" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0056" x="5910" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0057" x="6443" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0058" x="6976" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0059" x="7509" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0060" x="47" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0061" x="580" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0062" x="1113" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0063" x="1646" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0064" x="2179" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0065" x="2712" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0066" x="3245" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0067" x="3778" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0068" x="4311" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0069" x="4844" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0070" x="5377" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0071" x="5910" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0072" x="6443" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0073" x="6976" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Dead Loop0074" x="47" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0000" x="47" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0001" x="580" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0002" x="1113" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0003" x="1646" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0004" x="2179" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0005" x="2712" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0006" x="3245" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0007" x="3778" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0008" x="4311" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0009" x="4844" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0010" x="5377" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0011" x="5910" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0012" x="6443" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0013" x="6976" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0014" x="7509" y="47" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0015" x="47" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0016" x="580" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0017" x="1113" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0018" x="1646" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0019" x="2179" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0020" x="2712" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0021" x="3245" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0022" x="3778" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0023" x="4311" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0024" x="4844" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0025" x="5377" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0026" x="5910" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0027" x="6443" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0028" x="6976" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0029" x="7509" y="1120" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0030" x="47" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0031" x="580" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0032" x="1113" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0033" x="1646" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0034" x="2179" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0035" x="2712" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0036" x="3245" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0037" x="3778" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0038" x="4311" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0039" x="4844" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0040" x="5377" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0041" x="5910" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0042" x="6443" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0043" x="6976" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0044" x="7509" y="2193" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0045" x="47" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0046" x="580" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0047" x="1113" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0048" x="1646" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0049" x="2179" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0050" x="2712" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0051" x="3245" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0052" x="3778" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0053" x="4311" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0054" x="4844" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0055" x="5377" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0056" x="5910" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0057" x="6443" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0058" x="6976" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0059" x="7509" y="3266" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0060" x="47" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0061" x="580" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0062" x="1113" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0063" x="1646" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0064" x="2179" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0065" x="2712" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0066" x="3245" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0067" x="3778" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0068" x="4311" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0069" x="4844" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0070" x="5377" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0071" x="5910" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0072" x="6443" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0073" x="7509" y="4339" width="509" height="1049"/>
+	<SubTexture name="Tanya Retry0074" x="47" y="47" width="509" height="1049"/>
+	<SubTexture name="tanya dies0000" x="47" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0001" x="47" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0002" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0003" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0004" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0005" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0006" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0007" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0008" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0009" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0010" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0011" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0012" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0013" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0014" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0015" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0016" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0017" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0018" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0019" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0020" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0021" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0022" x="597" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0023" x="1147" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0024" x="1147" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0025" x="1697" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0026" x="1697" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0027" x="2247" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0028" x="2247" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0029" x="2247" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0030" x="2797" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0031" x="2797" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0032" x="3347" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0033" x="3347" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0034" x="3347" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0035" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0036" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0037" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0038" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0039" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0040" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0041" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0042" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0043" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0044" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0045" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0046" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0047" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0048" x="3897" y="5412" width="526" height="1032"/>
+	<SubTexture name="tanya dies0049" x="3897" y="5412" width="526" height="1032"/>
+</TextureAtlas>
