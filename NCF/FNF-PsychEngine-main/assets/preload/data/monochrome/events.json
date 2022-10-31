@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "mono",
+		"player1": "lilsishide",
+		"player2": "caiomon",
+		"player3": null,
+		"events": [
+			[
+				47250,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				89250,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				90468.75,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				91218.75,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				91968.75,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				104625,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				113250,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Image Event",
+						"caiumpscare",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Monochrome"
+	}
+}
