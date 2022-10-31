@@ -3,18 +3,14 @@
 	"difficulties": "cover",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"forestall-desire",
@@ -45,15 +41,19 @@
 		],
 		[
 			"Monochrome",
-			"dad",
+			"caiomon",
 			[
-				146,
-				113,
-				253
+				255,
+				255,
+				255
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }
