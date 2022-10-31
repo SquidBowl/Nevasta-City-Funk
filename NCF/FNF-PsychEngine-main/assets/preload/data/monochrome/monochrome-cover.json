@@ -1,12 +1,28 @@
 {
 	"song": {
-		"speed": 1,
-		"stage": "stage",
 		"player1": "bf",
-		"player2": "dad",
-		"player3": null,
-		"events": [],
+		"gfVersion": "gf",
 		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
 			{
 				"gfSection": false,
 				"lengthInSteps": 16,
@@ -23,17 +39,21 @@
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 150,
+				"bpm": 160,
 				"changeBPM": false,
 				"mustHitSection": true
 			}
 		],
+		"events": [],
+		"player2": "dad",
+		"player3": null,
 		"splashSkin": "noteSplashes",
-		"validScore": false,
-		"gfVersion": "gf",
-		"bpm": 150,
-		"arrowSkin": "",
+		"song": "Monochrome",
 		"needsVoices": true,
-		"song": "Monochrome"
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "mono",
+		"bpm": 160,
+		"speed": 2.7
 	}
 }
