@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				114,
 				95
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "MonoCaio left dance"
+			"fps": 24,
+			"name": "MonoCaio left dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-59,
 				9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "MonoCaio down dance"
+			"fps": 24,
+			"name": "MonoCaio down dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-13,
 				27
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "MonoCaio right dance"
+			"fps": 24,
+			"name": "MonoCaio right dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				84
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "MonoCaio up dance"
+			"fps": 24,
+			"name": "MonoCaio up dance",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				-1
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "MonoCaio idle dance"
+			"fps": 24,
+			"name": "MonoCaio idle dance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -70,7 +70,7 @@
 		255
 	],
 	"camera_position": [
-		-320,
+		70,
 		-200
 	],
 	"sing_duration": 6.1,
