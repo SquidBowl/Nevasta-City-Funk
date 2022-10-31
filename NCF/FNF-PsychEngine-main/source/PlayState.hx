@@ -741,7 +741,7 @@ class PlayState extends MusicBeatState
                 add(stbg);
 
 			case 'bruh': //Forestal Desire
-			    var bg:BGSprite = new BGSprite('covers/bruh', -200, -150, 1, 1);
+			    var bg:BGSprite = new BGSprite('covers/bruh', -540, -500, 1, 1);
 			    add(bg);		
 				
 			case 'fantasma': //Phantasm
@@ -2372,9 +2372,9 @@ class PlayState extends MusicBeatState
 		super.update(elapsed);
 
 		if(ratingName == '?') {
-			scoreTxt.text = 'Score: ' + songScore + ' | Rating: ' + ratingName;
+			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' | Rating: ' + ratingName;
 		} else {
-			scoreTxt.text = 'Score: ' + songScore + ' | Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
+			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' |Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
 		}
 
 		if(botplayTxt.visible) {
@@ -4487,10 +4487,10 @@ class PlayState extends MusicBeatState
 
 			// Rating FC
 			ratingFC = "";
-			if (sicks > 0) ratingFC = "MFC";
-			if (goods > 0) ratingFC = "GFC";
+			if (sicks > 0) ratingFC = "FFC";
+			if (goods > 0) ratingFC = "DFC";
 			if (bads > 0 || shits > 0) ratingFC = "FC";
-			if (songMisses > 0 && songMisses < 10) ratingFC = "SDCB";
+			if (songMisses > 0 && songMisses < 10) ratingFC = "CB";
 			else if (songMisses >= 10) ratingFC = "Clear";
 		}
 		setOnLuas('rating', ratingPercent);
