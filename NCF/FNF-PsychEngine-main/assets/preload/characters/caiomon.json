@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "MonoCaio idle dance"
+		},
+		{
+			"offsets": [
+				114,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MonoCaio left dance"
+		},
+		{
+			"offsets": [
+				-47,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MonoCaio down dance"
+		},
+		{
+			"offsets": [
+				-1,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MonoCaio right dance"
+		},
+		{
+			"offsets": [
+				-6,
+				84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MonoCaio up dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/caio-mon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
