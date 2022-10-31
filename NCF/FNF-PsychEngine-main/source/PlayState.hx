@@ -732,18 +732,13 @@ class PlayState extends MusicBeatState
                 add(ttunder);	
 
 			case 'starved': //???
-                var bg:BGSprite = new BGSprite('covers/stcity', -820, -550, 0.7, 0.7);
+                var bg:BGSprite = new BGSprite('covers/stcity', -820, -550, 0.6, 0.6);
                 add(bg);
 
-                var stbg:BGSprite = new BGSprite('covers/stbg', -820, -550, 1, 1);
+                var stbg:BGSprite = new BGSprite('covers/stbglol', -820, -550, 1, 1);
                 stbg.setGraphicSize(Std.int(stbg.width * 1.1));
                 stbg.updateHitbox();
                 add(stbg);
-
-                var nateanddaikifuckingdead:BGSprite = new BGSprite('covers/nateanddaikifuckingdead', -820, -550, 1, 1);
-                nateanddaikifuckingdead.setGraphicSize(Std.int(nateanddaikifuckingdead.width * 1.1));
-                nateanddaikifuckingdead.updateHitbox();
-                add(nateanddaikifuckingdead);
 
 			case 'bruh': //Forestal Desire
                 var bg:BGSprite = new BGSprite('covers/bruh', -650, -280, 1, 1);
