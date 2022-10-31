@@ -732,7 +732,7 @@ class PlayState extends MusicBeatState
                 add(ttunder);	
 
 			case 'starved': //Broken Bell
-                var bg:BGSprite = new BGSprite('covers/stcity', -820, -550, 0.6, 0.6);
+                var bg:BGSprite = new BGSprite('covers/stcity', -700, -450, 0.6, 0.6);
                 add(bg);
 
                 var stbg:BGSprite = new BGSprite('covers/stbglol', -820, -550, 1, 1);
