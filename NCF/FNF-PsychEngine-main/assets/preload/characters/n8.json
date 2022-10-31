@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-1,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "n8 idle"
+			"fps": 24,
+			"name": "n8 idle",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-71,
 				-115
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "n8 down"
+			"fps": 24,
+			"name": "n8 down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-67,
 				-11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "n8 right"
+			"fps": 24,
+			"name": "n8 right",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				83,
 				-13
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "n8 left"
+			"fps": 24,
+			"name": "n8 left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-11,
 				49
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "n8 up"
+			"fps": 24,
+			"name": "n8 up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		0,
-		150
+		70
 	],
 	"sing_duration": 6.1,
 	"scale": 0.9
