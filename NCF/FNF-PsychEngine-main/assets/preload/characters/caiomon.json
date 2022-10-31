@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				114,
+				112,
 				95
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "MonoCaio left dance",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MonoCaio left dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-59,
 				9
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "MonoCaio down dance",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MonoCaio down dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-13,
 				27
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "MonoCaio right dance",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MonoCaio right dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-6,
 				84
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "MonoCaio up dance",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "MonoCaio up dance"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				-1
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "MonoCaio idle dance",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "MonoCaio idle dance"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "caiomon",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		151,
+		151,
+		151
 	],
 	"camera_position": [
 		-320,
