@@ -60,7 +60,7 @@
 	"image": "characters/starvedtyler",
 	"position": [
 		-170,
-		-180
+		-200
 	],
 	"healthicon": "st",
 	"flip_x": false,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		20,
-		420
+		370
 	],
 	"sing_duration": 6.1,
 	"scale": 1
