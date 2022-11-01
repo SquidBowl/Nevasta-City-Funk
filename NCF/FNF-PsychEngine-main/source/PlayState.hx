@@ -731,7 +731,7 @@ class PlayState extends MusicBeatState
                 ttunder.updateHitbox();
                 add(ttunder);	
 
-			case 'starved': //Broken Bell
+			case 'starved': //Broken Bell(omega)
                 var bg:BGSprite = new BGSprite('covers/stcity', -700, -450, 0.6, 0.6);
                 add(bg);
 
