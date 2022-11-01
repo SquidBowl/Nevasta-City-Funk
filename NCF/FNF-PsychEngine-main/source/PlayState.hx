@@ -731,7 +731,7 @@ class PlayState extends MusicBeatState
                 ttunder.updateHitbox();
                 add(ttunder);	
 
-			case 'starved': //Broken Bell(omega)
+			case 'starved': //Broken Bell
                 var bg:BGSprite = new BGSprite('covers/stcity', -700, -450, 0.6, 0.6);
                 add(bg);
 
@@ -2374,7 +2374,7 @@ class PlayState extends MusicBeatState
 		if(ratingName == '?') {
 			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' | Rating: ' + ratingName;
 		} else {
-			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' |Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
+			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' | Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
 		}
 
 		if(botplayTxt.visible) {
