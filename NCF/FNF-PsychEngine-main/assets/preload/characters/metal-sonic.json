@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-42,
 				154
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Metal right dance",
-			"indices": []
+			"indices": [],
+			"name": "Metal right dance"
 		},
 		{
+			"offsets": [
+				-42,
+				154
+			],
 			"loop": true,
-			"offsets": [
-				-42,
-				154
-			],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Metal idle dance",
-			"indices": []
+			"indices": [],
+			"name": "Metal idle dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-42,
 				154
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Metal left dance",
-			"indices": []
+			"indices": [],
+			"name": "Metal left dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-42,
 				154
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Metal down dance",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Metal down dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-70,
 				151
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Metal up dance",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Metal up dance"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/metal-sonic-sprite-sheet",
 	"position": [
-		-370,
-		170
+		-340,
+		130
 	],
 	"healthicon": "metal",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		173
 	],
 	"camera_position": [
-		-160,
-		-70
+		-100,
+		-200
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.2
 }
