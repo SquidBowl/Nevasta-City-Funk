@@ -713,7 +713,7 @@ class PlayState extends MusicBeatState
                 add(bg1floor);	
 
 			case 'tt': //Triple Triumph
-                var bg:BGSprite = new BGSprite('covers/ttbgnormalbg', -500, -535, 0.8, 0.8);
+                var bg:BGSprite = new BGSprite('covers/ttbgnormalbg', -500, -535, 0.8, 0.1);
                 add(bg);
 
                 var ttbgfront:BGSprite = new BGSprite('covers/ttbgfront', -750, -650, 1, 1);
