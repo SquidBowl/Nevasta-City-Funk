@@ -60,7 +60,7 @@
 	"image": "characters/mighty-sprites",
 	"position": [
 		-400,
-		320
+		290
 	],
 	"healthicon": "mighty",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		23
 	],
 	"camera_position": [
-		-100,
-		-100
+		0,
+		-300
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.2
 }
