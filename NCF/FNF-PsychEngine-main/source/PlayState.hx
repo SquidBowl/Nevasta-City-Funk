@@ -4491,7 +4491,7 @@ class PlayState extends MusicBeatState
 			if (goods > 0) ratingFC = "DFC";
 			if (bads > 0 || shits > 0) ratingFC = "FC";
 			if (songMisses > 0 && songMisses < 10) ratingFC = "CB";
-			else if (songMisses >= 10) ratingFC = "Clear";
+			else if (songMisses >= 10) ratingFC = "MCB";
 		}
 		setOnLuas('rating', ratingPercent);
 		setOnLuas('ratingName', ratingName);
