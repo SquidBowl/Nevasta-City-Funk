@@ -67,12 +67,12 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-		['cmonBruh', 0.2], //From 0% to 19%
+		['You suck', 0.2], //From 0% to 19%
 		['Shit', 0.4], //From 20% to 39%
 		['Bad', 0.5], //From 40% to 49%
 		['Bro?', 0.6], //From 50% to 59%
 		['Meh...', 0.69], //From 60% to 68%
-		['Good?', 0.7], //69%
+		['Nice', 0.7], //69%
 		['Decent', 0.8], //From 70% to 79%
 		['Nice', 0.9], //From 80% to 89%
 		['Fire!', 1], //From 90% to 99%
@@ -2372,9 +2372,9 @@ class PlayState extends MusicBeatState
 		super.update(elapsed);
 
 		if(ratingName == '?') {
-			Combo Breaks: ' + songMisses + ' | scoreTxt.text = 'Score: ' + songScore + ' | Rating: ' + ratingName;
+			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' | Rating: ' + ratingName;
 		} else {
-			Combo Breaks: ' + songMisses + ' | scoreTxt.text = 'Score: ' + songScore + ' | Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
+			scoreTxt.text = 'Score: ' + songScore + ' | Combo Breaks: ' + songMisses + ' | Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
 		}
 
 		if(botplayTxt.visible) {
