@@ -748,7 +748,7 @@ class PlayState extends MusicBeatState
                 var bg:BGSprite = new BGSprite('covers/normal', -200, -150, 1, 1);
                 add(bg);	
 			case 'mono': //Monochrome
-                var bg:BGSprite = new BGSprite('Sonic-Act/blackscreen', -200, -150, 1, 1);
+                var bg:BGSprite = new BGSprite('blackscreen', -200, -150, 1, 1);
                 add(bg);		
 		}
 
