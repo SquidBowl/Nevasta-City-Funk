@@ -712,25 +712,6 @@ class PlayState extends MusicBeatState
                 bg1floor.updateHitbox();
                 add(bg1floor);	
 
-			case 'tt': //Triple Triumph
-                var bg:BGSprite = new BGSprite('covers/ttbgnormalbg', -500, -535, 0.8, 0.1);
-                add(bg);
-
-                var ttbgfront:BGSprite = new BGSprite('covers/ttbgfront', -750, -650, 1, 1);
-                ttbgfront.setGraphicSize(Std.int(ttbgfront.width * 1.1));
-                ttbgfront.updateHitbox();
-                add(ttbgfront);
-
-                var ttbgpixelpart:BGSprite = new BGSprite('covers/ttbgpixelpart', -620, -650, 1, 1);
-                ttbgpixelpart.setGraphicSize(Std.int(ttbgpixelpart.width * 1.1));
-                ttbgpixelpart.updateHitbox();
-                add(ttbgpixelpart);
-
-                var ttunder:BGSprite = new BGSprite('covers/ttunder', -500, -70, 1, 1);
-                ttunder.setGraphicSize(Std.int(ttunder.width * 1.1));
-                ttunder.updateHitbox();
-                add(ttunder);	
-
 			case 'starved': //Broken Bell
                 var bg:BGSprite = new BGSprite('covers/stcity', -700, -450, 0.6, 0.6);
                 add(bg);
