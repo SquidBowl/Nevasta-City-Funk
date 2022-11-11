@@ -733,6 +733,13 @@ class PlayState extends MusicBeatState
                 add(bg);		
 		}
 
+		switch(Paths.formatToSongPath(SONG.song))
+		{
+			case 'monochrome':
+				introSoundsSuffix = '-nothing';	
+		}
+
+
 		if(isPixelStage) {
 			introSoundsSuffix = '-pixel';
 		}
